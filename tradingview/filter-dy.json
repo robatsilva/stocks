@@ -1,0 +1,30 @@
+{
+    "filter": [
+        {
+            "left": "dividend_yield_recent",
+            "operation": "nempty"
+        }
+    ],
+    "options": {
+        "data_restrictions": "PREV_BAR",
+        "lang": "en"
+    },
+    "symbols": {
+        "query": {
+            "types": []
+        },
+        "tickers": []
+    },
+    "columns": [
+        "name",
+        "dividend_yield_recent"
+    ],
+    "sort": {
+        "sortBy": "name",
+        "sortOrder": "asc"
+    },
+    "range": [
+        0,
+        1500
+    ]
+}

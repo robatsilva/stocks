@@ -1,0 +1,281 @@
+let stocks;
+const alpha = require('alphavantage')({ key: 'C5897QEPYF5GF2VG' });
+const fs = require('fs');
+var request = require('axios');
+const body = require('../tradingview/filter.json');
+const bodyLow = require('../tradingview/filter-low.json');
+
+var ema = require('exponential-moving-average');
+
+const getAverage = (stock, period) => {
+    writeFile('executando media' + period);
+    const service = new Promise((resolve, reject) => {
+        alpha.technical.ema(stock, `daily`, period, `close`)
+        .then(data => {
+            const index = Object.keys(data['Technical Analysis: EMA'])[0];
+            const ema = data['Technical Analysis: EMA'][index].EMA;
+            resolve(ema);
+        }).catch(error => {
+            reject(error);
+        });
+    });
+    sleep(12000);
+    return service;
+}
+
+const getInfo = (stock) => {
+    writeFile('Pegando informações');
+    const service = new Promise((resolve, reject) => {
+        alpha.data.quote(stock)
+        .then(data => {
+            writeFile(data);
+            const volume = data['Global Quote']['05. volume'];
+            resolve(volume);
+        }).catch(error => {
+            reject(error);
+        });
+    });
+    sleep(12000);
+    return service;
+}
+
+ getHistoryInfo = (stock, cache) => {
+    const service = new Promise((resolve, reject) => {
+        alpha.data.daily_adjusted(stock, 'full')
+        .then(data => {
+            const days = Object.keys(data['Time Series (Daily)']);
+            
+            resolve(days.map(day => {
+                return data['Time Series (Daily)'][day];
+            }))
+        }).catch(error => {
+            reject(error);
+        });
+    });
+    return service;
+}
+
+
+const getSymbol = () => {
+    const stock = stocks[i];
+    writeFile('getting ' + stock);
+    alpha.data.search(stock).then(data => writeFile(data)).catch(error => writeFile(error));   
+    i++;
+}
+
+const analisyHight = (close, historyData, stock) => {
+    
+    if(+close[0] > +historyData[0]['1. open']
+        && +close[0] > +historyData[1]['2. high']
+        && +close[0] > +historyData[2]['2. high']
+        && +close[0] > +historyData[3]['2. high']
+        && +close[0] > +historyData[4]['2. high']
+        && +close[0] > +historyData[5]['2. high']
+        && +close[0] > +historyData[6]['2. high']
+        && +close[1] < +historyData[1]['1. open']){
+        writeFile('analisy high -> ' + stock);
+
+    }
+}
+
+const analisyLow = (close, historyData, stock) => {
+    
+    if(+close[0] < +historyData[0]['1. open']
+        && +close[0] < +historyData[1]['3. low']
+        && +close[0] < +historyData[2]['3. low']
+        && +close[0] < +historyData[3]['3. low']
+        && +close[0] < +historyData[4]['3. low']
+        && +close[0] < +historyData[5]['3. low']
+        && +close[0] < +historyData[6]['3. low']
+        && +close[1] > +historyData[1]['1. open']){
+        writeFile('analisy low -> ' + stock);
+
+    }
+}
+
+// const analisy1 = (close, volume, historyData, stock) => {
+//     const ema20 = ema(close, 20);
+//     const ema50 = ema(close, 50);
+//     const ema200 = ema(close, 200);
+    
+//     const volume20 = volume.slice(0, 19).reduce((a, b) => +a + +b, 0) / 20;
+    
+//     if(+ema20[0] >= +ema50[0] 
+//         && +ema50[0] >= +ema200[0] 
+//         && +volume20 >= 100000 
+//         && +close[0] >= +historyData[0]['1. open']
+//         && +close[0] >= +historyData[1]['2. high']
+//         && +close[1] <= +historyData[1]['1. open']){
+//         writeFile('analisy 1 -> ' + stock);
+
+//     }
+// }
+
+// const analisy3 = (close, volume, stock) => {
+//     const ema20 = ema(close, 20);
+//     const ema50 = ema(close, 50);
+//     const ema200 = ema(close, 200);
+    
+//     const volume20 = volume.slice(0, 19).reduce((a, b) => +a + +b, 0) / 20;
+    
+//     if(+ema20[0] >= +ema50[0] 
+//         && +ema50[0] >= +ema200[0] 
+//         && +volume20 >= 100000){
+//         writeFile('analisy 3 -> ' + stock);
+
+//     }
+// }
+
+// const analisy2 = (close, volume, stock) => {
+//     const ema20 = ema(close, 20);
+//     const ema50 = ema(close, 50);
+//     const ema200 = ema(close, 200);
+    
+//     const volume20 = volume.slice(0, 19).reduce((a, b) => +a + +b, 0) / 20;
+    
+//     if(+ema20[0] >= +ema50[0] 
+//         && +ema50[0] >= +ema200[0] 
+//         && +volume20 >= 100000
+//         && +ema20[0] >= +ema20[1]
+//         && +ema50[0] >= +ema50[1]
+//         && +ema200[0] >= +ema200[1]){
+//         writeFile('analisy 2 -> ' + stock);
+
+//     }
+// }
+
+const main = () => {
+    const stock = stocks[i].bestMatches[0]['1. symbol'];
+    writeFile('\r\nexecutando ' + stock);
+    getInfo(stock)
+    .then(volume => (volume > 100000 ? getAverage(stock, 20) : Promise.reject('volume abaixo de 100 mil'))
+    .then(av20 => getAverage(stock, 50)
+    .then(av50 => (av20 > av50 ? getAverage(stock, 200) : Promise.reject('média 200 não executada'))
+    .then(av200 => {
+        if(av20 > av50 && +av50 > av200){
+            writeFile('Papel com petencial ====================================> ;) ' + stock);
+        } else {
+            writeFile('Papel sem potencial :(')
+        }
+        i++;
+        main();
+    }))))
+    .catch(error => {
+        writeFile(error);
+        i++;
+        main();
+    });
+
+}
+
+const main2 = () => {
+    if(i >= stocks.length) return;
+    sleep(11000);
+    // const stock = stocks[i].bestMatches[0]['1. symbol'];
+    // const stock = 'WEGE3.SAO';
+    const stock = stocks[i];
+    writeFile('\r\nexecutando ' + stock + ' ' + new Date().toLocaleString());
+    getHistoryInfo(stock)
+        .then(historyData => {
+            writeStock(stock, historyData);
+            const close = historyData.map(h => h['5. adjusted close']); 
+            analisyHight(close, historyData, stock);
+            analisyLow(close, historyData, stock);
+            i++;
+            main2();
+        })
+        .catch(error => {
+            writeFile(error);
+            i++;
+            main2();
+        });
+
+}
+
+const writeFile = (text) => {
+    console.log(text);
+    fs.appendFileSync('logs.txt', '\n' + parseIfObject(text), function (err) {
+        if (err) return writeFile(err);
+      });
+}
+
+const writeStock = (stockName, stockData) => {
+    fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), function (err) {
+        if (err) return writeFile(err);
+      });
+}
+
+const parseIfObject = (text) => {
+    try{
+        return JSON.stringify(text);
+    } catch(e){
+        return text;
+    }
+}
+
+
+
+
+function sleep(milliseconds) {
+    const date = Date.now();
+    let currentDate = null;
+    do {
+      currentDate = Date.now();
+    } while (currentDate - date < milliseconds);
+  }
+  
+
+function EMACalc(mArray,mRange) {
+    var k = 2/(mRange + 1);
+    // first item is just the same as the first item in the input
+    emaArray = [mArray[0]];
+    // for the rest of the items, they are computed with the previous one
+    for (var i = 1; i < mArray.length; i++) {
+        emaArray.push(mArray[i] * k + emaArray[i - 1] * (1 - k));
+    }
+    return emaArray;
+}
+
+var getEMA = (a,r) => a.reduce((p,n,i) => i ? p.concat(2*n/(r+1) + p[p.length-1]*(r-1)/(r+1)) : p, [a[0]]);
+
+//=======================================
+
+const tradingView = () => {
+    request.post(
+        'https://scanner.tradingview.com/brazil/scan',
+        body).then(
+        function (response) {
+            stocks = response.data.data.map(stock => stock.d[1] + '.SAO').filter(stock => stock.indexOf('F.SAO') === -1);
+            request.post(
+                'https://scanner.tradingview.com/brazil/scan',
+                bodyLow).then(
+                function (response) {
+                    stocks = [...stocks, ...response.data.data.map(stock => stock.d[1] + '.SAO').filter(stock => stock.indexOf('F.SAO') === -1)]
+                    main2();
+                    writeFile(stocks.length)
+                }
+            );
+        }
+    );
+}
+
+const isNewMax = (close, historyData) => {
+    if(+close[0] >= +historyData[0]['1. open']
+        && +close[0] >= +historyData[1]['2. high']
+        && +close[1] <= +historyData[1]['1. open']){
+        writeFile('analisy 1 -> ' + stock);
+    }
+}
+
+
+let i = 0;
+// getSymbol();
+// setInterval(() => {
+//     getSymbol();
+// }, 15000);
+// main2();
+console.log('agendando 4 horas');
+setTimeout(() => {
+    tradingView();
+}, 60000 * 60 * 4);
+

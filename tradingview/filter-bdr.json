@@ -1,0 +1,59 @@
+{
+  "filter": [
+      {
+          "left": "name",
+          "operation": "nempty"
+      },
+      {
+          "left": "type",
+          "operation": "equal",
+          "right": "dr"
+      },
+      {
+          "left": "volume",
+          "operation": "egreater",
+          "right": 1000
+      }
+  ],
+  "options": {
+      "data_restrictions": "PREV_BAR",
+      "lang": "en"
+  },
+  "symbols": {
+      "query": {
+          "types": []
+      },
+      "tickers": []
+  },
+  "columns": [
+      "logoid",
+      "name",
+      "close",
+      "change",
+      "change_abs",
+      "Recommend.All",
+      "volume",
+      "market_cap_basic",
+      "price_earnings_ttm",
+      "earnings_per_share_basic_ttm",
+      "number_of_employees",
+      "sector",
+      "description",
+      "name",
+      "type",
+      "subtype",
+      "update_mode",
+      "pricescale",
+      "minmov",
+      "fractional",
+      "minmove2"
+  ],
+  "sort": {
+      "sortBy": "name",
+      "sortOrder": "asc"
+  },
+  "range": [
+      0,
+      500
+  ]
+}

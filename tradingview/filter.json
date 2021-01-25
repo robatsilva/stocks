@@ -1,0 +1,88 @@
+{
+    "filter": [
+        {
+            "left": "market_cap_basic",
+            "operation": "nempty"
+        },
+        {
+            "left": "type",
+            "operation": "in_range",
+            "right": [
+                "stock",
+                "fund",
+                "dr"
+            ]
+        },
+        {
+            "left": "subtype",
+            "operation": "in_range",
+            "right": [
+                "common",
+                "",
+                "etf",
+                "unit",
+                "mutual",
+                "money",
+                "reit",
+                "trust",
+                "preferred"
+            ]
+        },
+        {
+            "left": "average_volume_10d_calc",
+            "operation": "egreater",
+            "right": 100000
+        },
+        {
+            "left": "EMA50",
+            "operation": "less",
+            "right": "EMA20"
+        },
+        {
+            "left": "EMA200",
+            "operation": "less",
+            "right": "EMA50"
+        }
+    ],
+    "options": {
+        "data_restrictions": "PREV_BAR",
+        "lang": "en"
+    },
+    "symbols": {
+        "query": {
+            "types": []
+        },
+        "tickers": []
+    },
+    "columns": [
+        "logoid",
+        "name",
+        "close",
+        "change",
+        "change_abs",
+        "Recommend.All",
+        "volume",
+        "market_cap_basic",
+        "price_earnings_ttm",
+        "earnings_per_share_basic_ttm",
+        "number_of_employees",
+        "sector",
+        "description",
+        "name",
+        "type",
+        "subtype",
+        "update_mode",
+        "pricescale",
+        "minmov",
+        "fractional",
+        "minmove2"
+    ],
+    "sort": {
+        "sortBy": "name",
+        "sortOrder": "asc"
+    },
+    "range": [
+        0,
+        200
+    ]
+}
