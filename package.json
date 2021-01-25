@@ -1,0 +1,27 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alphavantage": "^2.2.0",
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.5",
+    "exponential-moving-average": "^1.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robatsilva/stocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robatsilva/stocks/issues"
+  },
+  "homepage": "https://github.com/robatsilva/stocks#readme"
+}
