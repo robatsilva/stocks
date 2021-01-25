@@ -1,1 +1,3 @@
-console.log('teste');
+setInterval(()=>{
+    console.log('teste');
+}, 10000)
