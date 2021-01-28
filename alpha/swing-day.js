@@ -1,14 +1,14 @@
 let stocks;
 const alpha = require('alphavantage')({ key: 'C5897QEPYF5GF2VG' });
-const fs = require('fs');
 var request = require('axios');
 const body = require('../tradingview/filter.json');
 const bodyLow = require('../tradingview/filter-low.json');
+const utils = require('../utils/utils');
 
 var ema = require('exponential-moving-average');
 
 const getAverage = (stock, period) => {
-    writeFile('executando media' + period);
+    utils.writeFile('executando media' + period);
     const service = new Promise((resolve, reject) => {
         alpha.technical.ema(stock, `daily`, period, `close`)
         .then(data => {
@@ -19,23 +19,23 @@ const getAverage = (stock, period) => {
             reject(error);
         });
     });
-    sleep(12000);
+    utils.sleep(12000);
     return service;
 }
 
 const getInfo = (stock) => {
-    writeFile('Pegando informações');
+    utils.writeFile('Pegando informações');
     const service = new Promise((resolve, reject) => {
         alpha.data.quote(stock)
         .then(data => {
-            writeFile(data);
+            utils.writeFile(data);
             const volume = data['Global Quote']['05. volume'];
             resolve(volume);
         }).catch(error => {
             reject(error);
         });
     });
-    sleep(12000);
+    utils.sleep(12000);
     return service;
 }
 
@@ -58,8 +58,8 @@ const getInfo = (stock) => {
 
 const getSymbol = () => {
     const stock = stocks[i];
-    writeFile('getting ' + stock);
-    alpha.data.search(stock).then(data => writeFile(data)).catch(error => writeFile(error));   
+    utils.writeFile('getting ' + stock);
+    alpha.data.search(stock).then(data => utils.writeFile(data)).catch(error => utils.writeFile(error));   
     i++;
 }
 
@@ -73,7 +73,7 @@ const analisyHight = (close, historyData, stock) => {
         && +close[0] > +historyData[5]['2. high']
         && +close[0] > +historyData[6]['2. high']
         && +close[1] < +historyData[1]['1. open']){
-        writeFile('analisy high -> ' + stock);
+        utils.writeFile('analisy high -> ' + stock);
 
     }
 }
@@ -88,7 +88,7 @@ const analisyLow = (close, historyData, stock) => {
         && +close[0] < +historyData[5]['3. low']
         && +close[0] < +historyData[6]['3. low']
         && +close[1] > +historyData[1]['1. open']){
-        writeFile('analisy low -> ' + stock);
+        utils.writeFile('analisy low -> ' + stock);
 
     }
 }
@@ -106,7 +106,7 @@ const analisyLow = (close, historyData, stock) => {
 //         && +close[0] >= +historyData[0]['1. open']
 //         && +close[0] >= +historyData[1]['2. high']
 //         && +close[1] <= +historyData[1]['1. open']){
-//         writeFile('analisy 1 -> ' + stock);
+//         utils.writeFile('analisy 1 -> ' + stock);
 
 //     }
 // }
@@ -121,7 +121,7 @@ const analisyLow = (close, historyData, stock) => {
 //     if(+ema20[0] >= +ema50[0] 
 //         && +ema50[0] >= +ema200[0] 
 //         && +volume20 >= 100000){
-//         writeFile('analisy 3 -> ' + stock);
+//         utils.writeFile('analisy 3 -> ' + stock);
 
 //     }
 // }
@@ -139,29 +139,29 @@ const analisyLow = (close, historyData, stock) => {
 //         && +ema20[0] >= +ema20[1]
 //         && +ema50[0] >= +ema50[1]
 //         && +ema200[0] >= +ema200[1]){
-//         writeFile('analisy 2 -> ' + stock);
+//         utils.writeFile('analisy 2 -> ' + stock);
 
 //     }
 // }
 
 const main = () => {
     const stock = stocks[i].bestMatches[0]['1. symbol'];
-    writeFile('\r\nexecutando ' + stock);
+    utils.writeFile('\r\nexecutando ' + stock);
     getInfo(stock)
     .then(volume => (volume > 100000 ? getAverage(stock, 20) : Promise.reject('volume abaixo de 100 mil'))
     .then(av20 => getAverage(stock, 50)
     .then(av50 => (av20 > av50 ? getAverage(stock, 200) : Promise.reject('média 200 não executada'))
     .then(av200 => {
         if(av20 > av50 && +av50 > av200){
-            writeFile('Papel com petencial ====================================> ;) ' + stock);
+            utils.writeFile('Papel com petencial ====================================> ;) ' + stock);
         } else {
-            writeFile('Papel sem potencial :(')
+            utils.writeFile('Papel sem potencial :(')
         }
         i++;
         main();
     }))))
     .catch(error => {
-        writeFile(error);
+        utils.writeFile(error);
         i++;
         main();
     });
@@ -170,14 +170,14 @@ const main = () => {
 
 const main2 = () => {
     if(i >= stocks.length) return;
-    sleep(11000);
+    utils.sleep(11000);
     // const stock = stocks[i].bestMatches[0]['1. symbol'];
     // const stock = 'WEGE3.SAO';
     const stock = stocks[i];
-    writeFile('\r\nexecutando ' + stock + ' ' + new Date().toLocaleString());
+    utils.writeFile('\r\nexecutando ' + stock + ' ' + new Date().toLocaleString());
     getHistoryInfo(stock)
         .then(historyData => {
-            writeStock(stock, historyData);
+            utils.writeStock(stock, historyData);
             const close = historyData.map(h => h['5. adjusted close']); 
             analisyHight(close, historyData, stock);
             analisyLow(close, historyData, stock);
@@ -185,45 +185,12 @@ const main2 = () => {
             main2();
         })
         .catch(error => {
-            writeFile(error);
+            utils.writeFile(error);
             i++;
             main2();
         });
 
 }
-
-const writeFile = (text) => {
-    console.log(text);
-    fs.appendFileSync('logs.txt', '\n' + parseIfObject(text), function (err) {
-        if (err) return writeFile(err);
-      });
-}
-
-const writeStock = (stockName, stockData) => {
-    fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), function (err) {
-        if (err) return writeFile(err);
-      });
-}
-
-const parseIfObject = (text) => {
-    try{
-        return JSON.stringify(text);
-    } catch(e){
-        return text;
-    }
-}
-
-
-
-
-function sleep(milliseconds) {
-    const date = Date.now();
-    let currentDate = null;
-    do {
-      currentDate = Date.now();
-    } while (currentDate - date < milliseconds);
-  }
-  
 
 function EMACalc(mArray,mRange) {
     var k = 2/(mRange + 1);
@@ -252,7 +219,7 @@ const tradingView = () => {
                 function (response) {
                     stocks = [...stocks, ...response.data.data.map(stock => stock.d[1] + '.SAO').filter(stock => stock.indexOf('F.SAO') === -1)]
                     main2();
-                    writeFile(stocks.length)
+                    utils.writeFile(stocks.length)
                 }
             );
         }
@@ -263,7 +230,7 @@ const isNewMax = (close, historyData) => {
     if(+close[0] >= +historyData[0]['1. open']
         && +close[0] >= +historyData[1]['2. high']
         && +close[1] <= +historyData[1]['1. open']){
-        writeFile('analisy 1 -> ' + stock);
+        utils.writeFile('analisy 1 -> ' + stock);
     }
 }
 
@@ -275,7 +242,8 @@ let i = 0;
 // }, 15000);
 // main2();
 console.log('agendando 4 horas');
-setTimeout(() => {
-    tradingView();
-}, 60000 * 60 * 4);
+// setTimeout(() => {
+// }, 60000 * 60 * 7);
+// tradingView();
+utils.gitPush();
 

@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { exec } = require('child_process');
 module.exports = {
     writeFile: (text) => {
         console.log(text);
@@ -11,6 +12,27 @@ module.exports = {
         fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), function (err) {
             if (err) return writeFile(err);
           });
+    },
+
+    clearFile: () => {
+        fs.writeFile('logs.txt', '', function (err) {
+            if (err) return writeFile(err);
+          });
+    },
+
+    gitPush: () => {
+        exec('git add .', (err, stdout, stderr) => {
+            gitExec(err, stdout, stderr);
+            exec('git commit -m "new analisy"', (err, stdout, stderr) => {
+                gitExec(err, stdout, stderr);
+                exec('git pull', (err, stdout, stderr) => {
+                    gitExec(err, stdout, stderr);
+                    exec('git push', (err, stdout, stderr) => {
+                        gitExec(err, stdout, stderr);
+                    });
+                });
+            });
+        });
     },
     
     sleep: (milliseconds) => {
@@ -28,4 +50,15 @@ const parseIfObject = (text) => {
     } catch(e){
         return text;
     }
+}
+
+const gitExec = (err, stdout, stderr) => {
+    if (err) {
+        // node couldn't execute the command
+        return;
+      }
+    
+      // the *entire* stdout and stderr (buffered)
+      console.log(`stdout: ${stdout}`);
+      console.log(`stderr: ${stderr}`);
 }
