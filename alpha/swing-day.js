@@ -169,7 +169,11 @@ const main = () => {
 }
 
 const main2 = () => {
-    if(i >= stocks.length) return;
+    if(i >= stocks.length) {
+        utils.gitPush();
+        return;
+    }
+
     utils.sleep(11000);
     // const stock = stocks[i].bestMatches[0]['1. symbol'];
     // const stock = 'WEGE3.SAO';
@@ -218,8 +222,8 @@ const tradingView = () => {
                 bodyLow).then(
                 function (response) {
                     stocks = [...stocks, ...response.data.data.map(stock => stock.d[1] + '.SAO').filter(stock => stock.indexOf('F.SAO') === -1)]
-                    main2();
                     utils.writeFile(stocks.length)
+                    main2();
                 }
             );
         }
@@ -244,6 +248,7 @@ let i = 0;
 console.log('agendando 4 horas');
 // setTimeout(() => {
 // }, 60000 * 60 * 7);
-// tradingView();
-utils.gitPush();
+utils.clearFile();
+tradingView();
+
 

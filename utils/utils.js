@@ -59,6 +59,6 @@ const gitExec = (err, stdout, stderr) => {
       }
     
       // the *entire* stdout and stderr (buffered)
-      console.log(`stdout: ${stdout}`);
-      console.log(`stderr: ${stderr}`);
+      module.export.writeFile(`stdout: ${stdout}`);
+      module.export.writeFile(`stderr: ${stderr}`);
 }
