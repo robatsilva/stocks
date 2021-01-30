@@ -245,10 +245,10 @@ let i = 0;
 //     getSymbol();
 // }, 15000);
 // main2();
-console.log('agendando 7 horas');
-setTimeout(() => {
-    utils.clearFile();
-}, 60000 * 60 * 7);
+// console.log('agendando 7 horas');
+// setTimeout(() => {
+//     utils.clearFile();
+// }, 60000 * 60 * 7);
 tradingView();
 
 

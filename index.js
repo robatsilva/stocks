@@ -1,6 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 var path = require('path');
+const cheerio = require('cheerio');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
@@ -46,7 +47,11 @@ http.createServer(function (request, response) {
         }
         else {
             response.writeHead(200, { 'Content-Type': contentType });
-            response.end(content, 'utf-8');
+            const $ = cheerio.load(content);
+            fs.readFile('./logs.txt', (err, content) => {
+                $('pre').text(content.toString());
+                response.end($.html(), 'utf-8');
+            })
         }
     });
 

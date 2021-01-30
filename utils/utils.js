@@ -1,6 +1,7 @@
 const fs = require('fs');
 const { exec } = require('child_process');
-module.exports = {
+
+const utils = {
     writeFile: (text) => {
         console.log(text);
         fs.appendFileSync('logs.txt', '\n' + parseIfObject(text), function (err) {
@@ -42,7 +43,8 @@ module.exports = {
           currentDate = Date.now();
         } while (currentDate - date < milliseconds);
       }
-}
+};
+module.exports = utils;
 
 const parseIfObject = (text) => {
     try{
@@ -54,11 +56,12 @@ const parseIfObject = (text) => {
 
 const gitExec = (err, stdout, stderr) => {
     if (err) {
+        utils.writeFile(err);
         // node couldn't execute the command
         return;
       }
     
       // the *entire* stdout and stderr (buffered)
-      module.export.writeFile(`stdout: ${stdout}`);
-      module.export.writeFile(`stderr: ${stderr}`);
+      utils.writeFile(`stdout: ${stdout}`);
+      utils.writeFile(`stderr: ${stderr}`);
 }
