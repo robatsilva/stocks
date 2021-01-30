@@ -2,14 +2,16 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 const cheerio = require('cheerio');
+const trade = require('./alpha/swing-day')
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
 
-    var filePath = '.' + request.url;
-    if (filePath == './') {
-        filePath = './index.html';
-    }
+    // var filePath = '.' + request.url;
+    // if (filePath == './') {
+    //     filePath = './index.html';
+    // }
+    filePath = './index.html';
 
     var extname = String(path.extname(filePath)).toLowerCase();
     var mimeTypes = {
@@ -49,10 +51,16 @@ http.createServer(function (request, response) {
             response.writeHead(200, { 'Content-Type': contentType });
             const $ = cheerio.load(content);
             fs.readFile('./logs.txt', (err, content) => {
-                $('pre').text(content.toString());
+                $('pre').text(err ? err : content.toString());
                 response.end($.html(), 'utf-8');
             })
         }
     });
 
 }).listen(process.env.PORT || 8080);
+console.log('initing...')
+trade.init();
+setInterval(() => {
+    console.log('scheduled 24h from', new Date());
+    trade.init();
+}, 60000 * 60 * 24)

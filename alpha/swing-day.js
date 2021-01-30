@@ -3,7 +3,7 @@ const alpha = require('alphavantage')({ key: 'C5897QEPYF5GF2VG' });
 var request = require('axios');
 const body = require('../tradingview/filter.json');
 const bodyLow = require('../tradingview/filter-low.json');
-const utils = require('../utils/utils');
+const utils = require('../utils/utils')
 
 var ema = require('exponential-moving-average');
 
@@ -146,7 +146,7 @@ const analisyLow = (close, historyData, stock) => {
 
 const main = () => {
     const stock = stocks[i].bestMatches[0]['1. symbol'];
-    utils.writeFile('\r\nexecutando ' + stock);
+    // utils.writeFile('\r\nexecutando ' + stock);
     getInfo(stock)
     .then(volume => (volume > 100000 ? getAverage(stock, 20) : Promise.reject('volume abaixo de 100 mil'))
     .then(av20 => getAverage(stock, 50)
@@ -178,7 +178,7 @@ const main2 = () => {
     // const stock = stocks[i].bestMatches[0]['1. symbol'];
     // const stock = 'WEGE3.SAO';
     const stock = stocks[i];
-    utils.writeFile('\r\nexecutando ' + stock + ' ' + new Date().toLocaleString());
+    // utils.writeFile('\r\nexecutando ' + stock + ' ' + new Date().toLocaleString());
     getHistoryInfo(stock)
         .then(historyData => {
             utils.writeStock(stock, historyData);
@@ -247,8 +247,12 @@ let i = 0;
 // main2();
 // console.log('agendando 7 horas');
 // setTimeout(() => {
-//     utils.clearFile();
-// }, 60000 * 60 * 7);
-tradingView();
+    // }, 60000 * 60 * 7);
+    module.exports = {
+        init: () => {
+        utils.clearFile();
+        tradingView();
+    }
+}
 
 
