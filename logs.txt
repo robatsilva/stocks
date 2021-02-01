@@ -1,18 +1,2 @@
 
 184
-"analisy low -> ALPA4.SAO"
-"analisy low -> BBSE3.SAO"
-"analisy low -> BOBR4.SAO"
-"analisy low -> CARD3.SAO"
-"analisy low -> CSAN3.SAO"
-"analisy low -> CSNA3.SAO"
-"analisy low -> ENEV3.SAO"
-"analisy low -> FLRY3.SAO"
-"analisy low -> HYPE3.SAO"
-"An AlphaVantage error occurred. {\"Error Message\":\"Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY_ADJUSTED.\"}"
-"analisy low -> RENT3.SAO"
-"analisy low -> VALE3.SAO"
-"An AlphaVantage error occurred. {\"Error Message\":\"Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY_ADJUSTED.\"}"
-"analisy low -> BKBR3.SAO"
-"analisy low -> MILS3.SAO"
-"analisy low -> PRNR3.SAO"

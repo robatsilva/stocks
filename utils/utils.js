@@ -8,6 +8,13 @@ const utils = {
             if (err) return writeFile(err);
           });
     },
+
+    writeAnalisy: (text) => {
+        console.log(text);
+        fs.appendFileSync('analisy.txt', '\n' + parseIfObject(text), function (err) {
+            if (err) return writeFile(err);
+          });
+    },
     
     writeStock: (stockName, stockData) => {
         fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), function (err) {
@@ -17,6 +24,12 @@ const utils = {
 
     clearFile: () => {
         fs.writeFile('logs.txt', '', function (err) {
+            if (err) return writeFile(err);
+          });
+    },
+
+    clearAnalisy: () => {
+        fs.writeFile('analisy.txt', '', function (err) {
             if (err) return writeFile(err);
           });
     },

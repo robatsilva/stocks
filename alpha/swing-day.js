@@ -73,7 +73,7 @@ const analisyHight = (close, historyData, stock) => {
         && +close[0] > +historyData[5]['2. high']
         && +close[0] > +historyData[6]['2. high']
         && +close[1] < +historyData[1]['1. open']){
-        utils.writeFile('analisy high -> ' + stock);
+        utils.writeAnalisy('analisy high -> ' + stock);
 
     }
 }
@@ -88,7 +88,7 @@ const analisyLow = (close, historyData, stock) => {
         && +close[0] < +historyData[5]['3. low']
         && +close[0] < +historyData[6]['3. low']
         && +close[1] > +historyData[1]['1. open']){
-        utils.writeFile('analisy low -> ' + stock);
+        utils.writeAnalisy('analisy low -> ' + stock);
 
     }
 }
@@ -251,6 +251,8 @@ let i = 0;
     module.exports = {
         init: () => {
         utils.clearFile();
+        utils.clearAnalisy();
+        utils.writeAnalisy(new Date().toDateString());
         tradingView();
     }
 }

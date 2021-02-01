@@ -50,7 +50,7 @@ http.createServer(function (request, response) {
         else {
             response.writeHead(200, { 'Content-Type': contentType });
             const $ = cheerio.load(content);
-            fs.readFile('./logs.txt', (err, content) => {
+            fs.readFile('./analisy.txt', (err, content) => {
                 $('pre').text(err ? err : content.toString());
                 response.end($.html(), 'utf-8');
             })
