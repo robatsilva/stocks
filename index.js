@@ -58,9 +58,10 @@ http.createServer(function (request, response) {
     });
 
 }).listen(process.env.PORT || 8080);
-console.log('initing...')
-trade.init();
-setInterval(() => {
-    console.log('scheduled 24h from', new Date());
-    trade.init();
-}, 60000 * 60 * 24)
+// console.log('initing...')
+// trade.init();
+// setInterval(() => {
+//     console.log('scheduled 24h from', new Date());
+//     trade.init();
+// }, 60000 * 60 * 24)
+console.log('finishing');
