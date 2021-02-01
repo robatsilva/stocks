@@ -22,6 +22,9 @@ const utils = {
     },
 
     gitPush: () => {
+        if(process && process.env && process.env.PORT){
+            return;
+        }
         exec('git add .', (err, stdout, stderr) => {
             gitExec(err, stdout, stderr);
             exec('git commit -m "new analisy"', (err, stdout, stderr) => {
