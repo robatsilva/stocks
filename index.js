@@ -50,18 +50,21 @@ http.createServer(function (request, response) {
         else {
             response.writeHead(200, { 'Content-Type': contentType });
             const $ = cheerio.load(content);
-            fs.readFile('./analisy.txt', (err, content) => {
-                $('pre').text(err ? err : content.toString());
-                response.end($.html(), 'utf-8');
+            fs.readFile('./analisyHight.txt', (errH, contentH) => {
+                $('#hight pre').text(errH ? errH : contentH.toString());
+                fs.readFile('./analisyLow.txt', (errL, contentL) => {
+                    $('#low pre').text(errL ? errL : contentL.toString());
+                    response.end($.html(), 'utf-8');
+                })
             })
         }
     });
 
 }).listen(process.env.PORT || 8080);
-// console.log('initing...')
-// trade.init();
-// setInterval(() => {
-//     console.log('scheduled 24h from', new Date());
-//     trade.init();
-// }, 60000 * 60 * 24)
-console.log('finishing');
+console.log('initing...')
+trade.init();
+setInterval(() => {
+    console.log('scheduled 24h from', new Date());
+    trade.init();
+}, 60000 * 60 * 24)
+// console.log('finishing');

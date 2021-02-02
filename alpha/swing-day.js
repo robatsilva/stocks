@@ -73,7 +73,7 @@ const analisyHight = (close, historyData, stock) => {
         && +close[0] > +historyData[5]['2. high']
         && +close[0] > +historyData[6]['2. high']
         && +close[1] < +historyData[1]['1. open']){
-        utils.writeAnalisy('analisy high -> ' + stock);
+        utils.writeAnalisyHight('analisy high -> ' + stock);
 
     }
 }
@@ -88,7 +88,7 @@ const analisyLow = (close, historyData, stock) => {
         && +close[0] < +historyData[5]['3. low']
         && +close[0] < +historyData[6]['3. low']
         && +close[1] > +historyData[1]['1. open']){
-        utils.writeAnalisy('analisy low -> ' + stock);
+        utils.writeAnalisyLow('analisy low -> ' + stock);
 
     }
 }
@@ -178,13 +178,16 @@ const main2 = () => {
     // const stock = stocks[i].bestMatches[0]['1. symbol'];
     // const stock = 'WEGE3.SAO';
     const stock = stocks[i];
-    // utils.writeFile('\r\nexecutando ' + stock + ' ' + new Date().toLocaleString());
-    getHistoryInfo(stock)
+    utils.writeFile('\r\nexecutando ' + stock.name + ' ' + new Date().toLocaleString());
+    getHistoryInfo(stock.name)
         .then(historyData => {
-            utils.writeStock(stock, historyData);
+            utils.writeStock(stock.name, historyData);
             const close = historyData.map(h => h['5. adjusted close']); 
-            analisyHight(close, historyData, stock);
-            analisyLow(close, historyData, stock);
+            if(stock.type === 'hight'){
+                analisyHight(close, historyData, stock.name);
+            } else if (stock.type === 'low'){
+                analisyLow(close, historyData, stock.name);
+            }
             i++;
             main2();
         })
@@ -216,12 +219,12 @@ const tradingView = () => {
         'https://scanner.tradingview.com/brazil/scan',
         body).then(
         function (response) {
-            stocks = response.data.data.map(stock => stock.d[1] + '.SAO').filter(stock => stock.indexOf('F.SAO') === -1);
+            stocks = response.data.data.map(stock => ({name: stock.d[1] + '.SAO', type: 'hight'})).filter(stock => stock.name.indexOf('F.SAO') === -1);
             request.post(
                 'https://scanner.tradingview.com/brazil/scan',
                 bodyLow).then(
                 function (response) {
-                    stocks = [...stocks, ...response.data.data.map(stock => stock.d[1] + '.SAO').filter(stock => stock.indexOf('F.SAO') === -1)]
+                    stocks = [...stocks, ...response.data.data.map(stock => ({name: stock.d[1] + '.SAO', type: 'hight'})).filter(stock => stock.name.indexOf('F.SAO') === -1)];
                     utils.writeFile(stocks.length)
                     main2();
                 }
@@ -252,7 +255,8 @@ let i = 0;
         init: () => {
         utils.clearFile();
         utils.clearAnalisy();
-        utils.writeAnalisy(new Date().toDateString());
+        utils.writeAnalisyHight(new Date().toDateString());
+        utils.writeAnalisyLow(new Date().toDateString());
         tradingView();
     }
 }
