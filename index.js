@@ -2,7 +2,8 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 const cheerio = require('cheerio');
-const trade = require('./alpha/swing-day')
+const trade = require('./alpha/swing-day');
+const { time } = require('console');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
@@ -50,18 +51,30 @@ http.createServer(function (request, response) {
         else {
             response.writeHead(200, { 'Content-Type': contentType });
             const $ = cheerio.load(content);
-            fs.readFile('./analisy.txt', (err, content) => {
-                $('pre').text(err ? err : content.toString());
-                response.end($.html(), 'utf-8');
+            fs.readFile('./analisyHight.txt', (errH, contentH) => {
+                $('#hight pre').text(errH ? errH : contentH.toString());
+                fs.readFile('./analisyLow.txt', (errL, contentL) => {
+                    $('#low pre').text(errL ? errL : contentL.toString());
+                    response.end($.html(), 'utf-8');
+                })
             })
         }
     });
 
 }).listen(process.env.PORT || 8080);
-// console.log('initing...')
-// trade.init();
-// setInterval(() => {
-//     console.log('scheduled 24h from', new Date());
-//     trade.init();
-// }, 60000 * 60 * 24)
-console.log('finishing');
+
+const _29hours = 29;
+const oneHourInMillisseconds = 60000 * 60;
+const oneDayInMillisseconds = oneHourInMillisseconds * 24;
+
+const threeOfMorning = (_29hours - new Date().getUTCHours()) * oneHourInMillisseconds;
+console.log('utc hour... ', new Date().getUTCHours());
+console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + (_29hours - new Date().getUTCHours()) * oneHourInMillisseconds)));
+setTimeout(()=>{
+    console.log('starting ...')
+    trade.init();
+    setInterval(() => {
+        console.log('scheduled 24h from', new Date());
+        trade.init();
+    }, oneDayInMillisseconds)
+}, threeOfMorning)

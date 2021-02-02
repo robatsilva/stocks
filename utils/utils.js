@@ -9,9 +9,15 @@ const utils = {
           });
     },
 
-    writeAnalisy: (text) => {
+    writeAnalisyHight: (text) => {
         console.log(text);
-        fs.appendFileSync('analisy.txt', '\n' + parseIfObject(text), function (err) {
+        fs.appendFileSync('analisyHight.txt', '\n' + parseIfObject(text), function (err) {
+            if (err) return writeFile(err);
+          });
+    },
+    writeAnalisyLow: (text) => {
+        console.log(text);
+        fs.appendFileSync('analisyLow.txt', '\n' + parseIfObject(text), function (err) {
             if (err) return writeFile(err);
           });
     },
@@ -29,7 +35,10 @@ const utils = {
     },
 
     clearAnalisy: () => {
-        fs.writeFile('analisy.txt', '', function (err) {
+        fs.writeFile('analisyHight.txt', '', function (err) {
+            if (err) return writeFile(err);
+          });
+        fs.writeFile('analisyLow.txt', '', function (err) {
             if (err) return writeFile(err);
           });
     },
