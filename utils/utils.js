@@ -4,43 +4,29 @@ const { exec } = require('child_process');
 const utils = {
     writeFile: (text) => {
         console.log(text);
-        fs.appendFileSync('logs.txt', '\n' + parseIfObject(text), function (err) {
-            if (err) return writeFile(err);
-          });
+        fs.appendFileSync('logs.txt', '\n' + parseIfObject(text));
     },
 
     writeAnalisyHight: (text) => {
         console.log(text);
-        fs.appendFileSync('analisyHight.txt', '\n' + parseIfObject(text), function (err) {
-            if (err) return writeFile(err);
-          });
+        fs.appendFileSync('analisyHight.txt', '\n' + parseIfObject(text));
     },
     writeAnalisyLow: (text) => {
         console.log(text);
-        fs.appendFileSync('analisyLow.txt', '\n' + parseIfObject(text), function (err) {
-            if (err) return writeFile(err);
-          });
+        fs.appendFileSync('analisyLow.txt', '\n' + parseIfObject(text));
     },
     
     writeStock: (stockName, stockData) => {
-        fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), function (err) {
-            if (err) return writeFile(err);
-          });
+        fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData));
     },
 
     clearFile: () => {
-        fs.writeFile('logs.txt', '', function (err) {
-            if (err) return writeFile(err);
-          });
+        fs.writeFile('logs.txt', '');
     },
 
     clearAnalisy: () => {
-        fs.writeFile('analisyHight.txt', '', function (err) {
-            if (err) return writeFile(err);
-          });
-        fs.writeFile('analisyLow.txt', '', function (err) {
-            if (err) return writeFile(err);
-          });
+        fs.writeFile('analisyHight.txt', '');
+        fs.writeFile('analisyLow.txt', '');
     },
 
     gitPush: () => {
