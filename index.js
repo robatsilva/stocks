@@ -66,8 +66,8 @@ http.createServer(function (request, response) {
 const _29hours = 29;
 const oneHourInMillisseconds = 60000 * 60;
 const oneDayInMillisseconds = oneHourInMillisseconds * 24;
-
-const threeOfMorning = (_29hours - new Date().getUTCHours()) * oneHourInMillisseconds;
+const diff = _29hours - new Date().getUTCHours();
+const threeOfMorning = diff > 0 ? (diff * oneHourInMillisseconds) : 0;
 console.log('utc hour... ', new Date().getUTCHours());
 console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + (_29hours - new Date().getUTCHours()) * oneHourInMillisseconds)));
 setTimeout(()=>{

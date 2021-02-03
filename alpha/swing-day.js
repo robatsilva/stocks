@@ -253,10 +253,16 @@ let i = 0;
     // }, 60000 * 60 * 7);
 module.exports = {
     init: () => {
-        utils.clearFile();
-        utils.clearAnalisy();
-        utils.writeAnalisyHight(new Date().toDateString());
-        utils.writeAnalisyLow(new Date().toDateString());
-        tradingView();
+        init();
     }
 }
+const init = ()=>{
+    utils.clearFile();
+    utils.clearAnalisy();
+    utils.writeAnalisyHight(new Date().toDateString());
+    utils.writeAnalisyLow(new Date().toDateString());
+    
+    tradingView();
+}
+
+init();
