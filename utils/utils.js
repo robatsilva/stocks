@@ -17,16 +17,16 @@ const utils = {
     },
     
     writeStock: (stockName, stockData) => {
-        fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData));
+        fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), ()=>{});
     },
 
     clearFile: () => {
-        fs.writeFile('logs.txt', '');
+        fs.writeFile('logs.txt', '', ()=>{});
     },
 
     clearAnalisy: () => {
-        fs.writeFile('analisyHight.txt', '');
-        fs.writeFile('analisyLow.txt', '');
+        fs.writeFile('analisyHight.txt', '', ()=>{});
+        fs.writeFile('analisyLow.txt', '', ()=>{});
     },
 
     gitPush: () => {

@@ -82,5 +82,7 @@ setTimeout(()=>{
 
 setInterval(()=>{
     console.log('making request', new Date());
-    const response = await request.get('https://murmuring-plateau-93423.herokuapp.com/');
+    request.get('https://murmuring-plateau-93423.herokuapp.com/').then(()=>{
+        console.log('request called');
+    });
 }, oneHourInMillisseconds)

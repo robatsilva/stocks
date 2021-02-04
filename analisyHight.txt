@@ -1,7 +1,2 @@
 
-"Wed Feb 03 2021"
-"analisy high -> BIDI3.SAO"
-"analisy high -> CPLE3.SAO"
-"analisy high -> RLOG3.SAO"
-"analisy high -> SLCE3.SAO"
-"analisy high -> YDUQ3.SAO"
+"Thu Feb 04 2021"
