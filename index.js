@@ -4,6 +4,7 @@ var path = require('path');
 const cheerio = require('cheerio');
 const trade = require('./alpha/swing-day');
 const { time } = require('console');
+var request = require('axios');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
