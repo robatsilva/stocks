@@ -85,4 +85,4 @@ setInterval(()=>{
     request.get('https://murmuring-plateau-93423.herokuapp.com/').then(()=>{
         console.log('request called');
     });
-}, oneHourInMillisseconds)
+}, oneHourInMillisseconds / 2)
