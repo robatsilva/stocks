@@ -72,7 +72,7 @@ const diff = _29hours - utcHours;
 const threeOfMorning = (utcHours <= 3 ? 3 - utcHours : _29hours - utcHours) * oneHourInMillisseconds;
 
 console.log('utc hour... ', new Date().getUTCHours());
-console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + (_29hours - new Date().getUTCHours()) * oneHourInMillisseconds)));
+console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + threeOfMorning)));
 setTimeout(()=>{
     console.log('starting ...')
     trade.init();
