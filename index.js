@@ -67,8 +67,10 @@ http.createServer(function (request, response) {
 const _29hours = 29;
 const oneHourInMillisseconds = 60000 * 60;
 const oneDayInMillisseconds = oneHourInMillisseconds * 24;
-const diff = _29hours - new Date().getUTCHours();
-const threeOfMorning = diff > 0 ? (diff * oneHourInMillisseconds) : 0;
+const utcHours = new Date().getUTCHours();
+const diff = _29hours - utcHours;
+const threeOfMorning = (utcHours <= 3 ? 3 - utcHours : _29hours - utcHours) * oneHourInMillisseconds;
+
 console.log('utc hour... ', new Date().getUTCHours());
 console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + (_29hours - new Date().getUTCHours()) * oneHourInMillisseconds)));
 setTimeout(()=>{
@@ -86,3 +88,7 @@ setInterval(()=>{
         console.log('request called');
     });
 }, oneHourInMillisseconds / 2)
+
+setInterval(()=>{
+    console.log('10 minutes', new Date());
+}, oneHourInMillisseconds / 6)
