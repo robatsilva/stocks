@@ -264,3 +264,5 @@ const init = ()=>{
     
     tradingView();
 }
+
+init();
