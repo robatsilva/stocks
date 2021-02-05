@@ -69,7 +69,7 @@ const oneHourInMillisseconds = 60000 * 60;
 const oneDayInMillisseconds = oneHourInMillisseconds * 24;
 const utcHours = new Date().getUTCHours();
 const diff = _29hours - utcHours;
-const threeOfMorning = (utcHours <= 3 ? 6 - utcHours : _29hours - utcHours) * oneHourInMillisseconds;
+const threeOfMorning = (utcHours <= 3 ? 6 - utcHours : diff) * oneHourInMillisseconds;
 
 console.log('utc hour... ', new Date().getUTCHours());
 console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + threeOfMorning)));
