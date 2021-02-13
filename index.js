@@ -8,7 +8,9 @@ var request = require('axios');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
-
+    if(request.url.indexOf('start') > -1){
+        trade.init();
+    }
     // var filePath = '.' + request.url;
     // if (filePath == './') {
     //     filePath = './index.html';
@@ -64,31 +66,31 @@ http.createServer(function (request, response) {
 
 }).listen(process.env.PORT || 8080);
 
-const _29hours = 29;
-const oneHourInMillisseconds = 60000 * 60;
-const oneDayInMillisseconds = oneHourInMillisseconds * 24;
-const utcHours = new Date().getUTCHours();
-const diff = _29hours - utcHours;
-const threeOfMorning = (utcHours <= 3 ? 6 - utcHours : diff) * oneHourInMillisseconds;
+// const _29hours = 29;
+// const oneHourInMillisseconds = 60000 * 60;
+// const oneDayInMillisseconds = oneHourInMillisseconds * 24;
+// const utcHours = new Date().getUTCHours();
+// const diff = _29hours - utcHours;
+// const threeOfMorning = (utcHours <= 3 ? 6 - utcHours : diff) * oneHourInMillisseconds;
 
-console.log('utc hour... ', new Date().getUTCHours());
-console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + threeOfMorning)));
-setTimeout(()=>{
-    console.log('starting ...')
-    trade.init();
-    setInterval(() => {
-        console.log('scheduled 24h from', new Date());
-        trade.init();
-    }, oneDayInMillisseconds)
-}, threeOfMorning)
+// console.log('utc hour... ', new Date().getUTCHours());
+// console.log('will init on... ', new Date(new Date().setTime(new Date().getTime() + threeOfMorning)));
+// setTimeout(()=>{
+//     console.log('starting ...')
+//     trade.init();
+//     setInterval(() => {
+//         console.log('scheduled 24h from', new Date());
+//         trade.init();
+//     }, oneDayInMillisseconds)
+// }, threeOfMorning)
 
-setInterval(()=>{
-    console.log('making request', new Date());
-    request.get('https://murmuring-plateau-93423.herokuapp.com/').then(()=>{
-        console.log('request called');
-    });
-}, oneHourInMillisseconds / 2)
+// setInterval(()=>{
+//     console.log('making request', new Date());
+//     request.get('https://murmuring-plateau-93423.herokuapp.com/').then(()=>{
+//         console.log('request called');
+//     });
+// }, oneHourInMillisseconds / 2)
 
-setInterval(()=>{
-    console.log('10 minutes', new Date());
-}, oneHourInMillisseconds / 6)
+// setInterval(()=>{
+//     console.log('10 minutes', new Date());
+// }, oneHourInMillisseconds / 6)
