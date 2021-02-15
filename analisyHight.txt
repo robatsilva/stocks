@@ -1,6 +1,2 @@
 
-"Fri Feb 05 2021"
-"analisy high -> ARZZ3.SAO"
-"analisy high -> BPAC11.SAO"
-"analisy high -> OMGE3.SAO"
-"analisy high -> PCAR3.SAO"
+"Mon Feb 15 2021"
