@@ -1,5 +1,3 @@
 
-"Thu Feb 18 2021"
-"analisy high -> ENAT3.SAO"
-"analisy high -> USIM3.SAO"
-"analisy high -> USIM5.SAO"
+"Fri Feb 19 2021"
+"analisy high -> MMXM3.SAO"
