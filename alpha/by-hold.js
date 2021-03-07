@@ -47,8 +47,7 @@ const getDy = async (stock) => {
 }
 
 function isMore(close, i, j){
-    return +close[i] > +close[j] ||
-        +close[j] > +close[i] * 1.5;
+    return +close[i] > +close[j];
 }
 
 const main2 = () => {

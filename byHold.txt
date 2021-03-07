@@ -1,8 +1,2 @@
 
-"By & hold -> BERK34.SAO Dy "
-"By & hold -> RCSL3.SAO Dy -"
-"By & hold -> SHOW3.SAO Dy -"
-"By & hold -> TAEE11.SAO Dy 10,00"
-"By & hold -> TIET3.SAO Dy 6,50"
-"By & hold -> TSLA34.SAO Dy "
-"By & hold -> WEGE3.SAO Dy 0,52"
+"By & hold -> AMZO34.SAO Dy "
