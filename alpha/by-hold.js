@@ -40,9 +40,9 @@ const getDy = async (stock) => {
         const $ = cheerio.load(response.data);
         const dy = $('#main-2 > div:nth-child(4) > div > div.pb-3.pb-md-5 > div > div:nth-child(4) > div > div:nth-child(1) > strong').text();
 
-        utils.writeFile('By & hold -> ' + stock + ' Dy ' + dy);
+        utils.writeByHold('By & hold -> ' + stock + ' Dy ' + dy);
     } catch (e){
-        utils.writeFile('By & hold -> ' + stock);
+        utils.writeByHold('By & hold -> ' + stock);
     }
 }
 
@@ -87,4 +87,5 @@ const tradingView = () => {
 }
 
 let i = 0;
+utils.clearByHold();
 tradingView();

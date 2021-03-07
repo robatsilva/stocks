@@ -16,6 +16,11 @@ const utils = {
         fs.appendFileSync('analisyLow.txt', '\n' + parseIfObject(text));
     },
     
+    writeByHold: (text) => {
+        console.log(text);
+        fs.appendFileSync('byHold.txt', '\n' + parseIfObject(text));
+    },
+    
     writeStock: (stockName, stockData) => {
         fs.writeFile('./stocks/' + stockName + '.json', parseIfObject(stockData), ()=>{});
     },
@@ -27,6 +32,10 @@ const utils = {
     clearAnalisy: () => {
         fs.writeFile('analisyHight.txt', '', ()=>{});
         fs.writeFile('analisyLow.txt', '', ()=>{});
+    },
+
+    clearByHold: () => {
+        fs.writeFile('byHold.txt', '', () => {});
     },
 
     gitPush: () => {
