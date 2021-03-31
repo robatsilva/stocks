@@ -1,5 +1,3 @@
 
-"Tue Mar 30 2021"
-"analisy high -> BRKM5.SAO"
-"analisy high -> GOGL34.SAO"
-"analisy high -> MRFG3.SAO"
+"Wed Mar 31 2021"
+"analisy high -> ENBR3.SAO"
