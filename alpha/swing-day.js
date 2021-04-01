@@ -174,7 +174,7 @@ const main2 = () => {
         return;
     }
 
-    utils.sleep(11000);
+    utils.sleep(15000);
     // const stock = stocks[i].bestMatches[0]['1. symbol'];
     // const stock = 'WEGE3.SAO';
     const stock = stocks[i];
