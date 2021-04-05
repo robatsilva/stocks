@@ -1,3 +1,6 @@
 
-"Thu Apr 01 2021"
-"analisy high -> SLCE3.SAO"
+"Mon Apr 05 2021"
+"analisy high -> AMZO34.SAO"
+"analisy high -> FBOK34.SAO"
+"analisy high -> MSFT34.SAO"
+"analisy high -> POSI3.SAO"
