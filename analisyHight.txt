@@ -1,9 +1,6 @@
 
-"Wed Apr 07 2021"
-"analisy high -> BIDI11.SAO"
-"analisy high -> BIDI3.SAO"
-"analisy high -> BIDI4.SAO"
-"analisy high -> DTEX3.SAO"
+"Tue Apr 13 2021"
+"analisy high -> BRKM5.SAO"
+"analisy high -> ENAT3.SAO"
 "analisy high -> JBSS3.SAO"
-"analisy high -> POSI3.SAO"
-"analisy high -> SIMH3.SAO"
+"analisy high -> PCAR3.SAO"
