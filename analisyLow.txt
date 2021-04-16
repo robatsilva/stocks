@@ -1,3 +1,3 @@
 
-"Wed Apr 14 2021"
-"analisy low -> BBSE3.SAO"
+"Fri Apr 16 2021"
+"analisy low -> PETR3.SAO"
