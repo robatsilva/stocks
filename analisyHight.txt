@@ -1,6 +1,8 @@
 
-"Fri Apr 16 2021"
-"analisy high -> BRKM5.SAO"
-"analisy high -> KEPL3.SAO"
-"analisy high -> KLBN3.SAO"
-"analisy high -> PTBL3.SAO"
+"Mon Apr 19 2021"
+"analisy high -> AZEV4.SAO"
+"analisy high -> BPAN4.SAO"
+"analisy high -> CPLE3.SAO"
+"analisy high -> SGPS3.SAO"
+"analisy high -> TAEE11.SAO"
+"analisy high -> TRPL4.SAO"
