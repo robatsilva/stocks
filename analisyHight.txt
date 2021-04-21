@@ -1,8 +1,6 @@
 
-"Mon Apr 19 2021"
-"analisy high -> AZEV4.SAO"
-"analisy high -> BPAN4.SAO"
-"analisy high -> CPLE3.SAO"
-"analisy high -> SGPS3.SAO"
-"analisy high -> TAEE11.SAO"
-"analisy high -> TRPL4.SAO"
+"Wed Apr 21 2021"
+"analisy high -> CSAN3.SAO"
+"analisy high -> CSMG3.SAO"
+"analisy high -> DTEX3.SAO"
+"analisy high -> UCAS3.SAO"
