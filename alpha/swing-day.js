@@ -213,7 +213,7 @@ function EMACalc(mArray,mRange) {
 var getEMA = (a,r) => a.reduce((p,n,i) => i ? p.concat(2*n/(r+1) + p[p.length-1]*(r-1)/(r+1)) : p, [a[0]]);
 
 //=======================================
-
+//https://www.tradingview.com/screener/
 const tradingView = () => {
     request.post(
         'https://scanner.tradingview.com/brazil/scan',
