@@ -89,4 +89,5 @@ const tradingView = () => {
 let i = 0;
 // setTimeout(() => {
 // }, 60000 * 60 * 8);
-tradingView();
+// tradingView();
+getDy('mglu3')
