@@ -2,7 +2,7 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 const cheerio = require('cheerio');
-const trade = require('./alpha/swing-day');
+const trade = require('./app/fundamentalista');
 const { time } = require('console');
 var request = require('axios');
 
