@@ -1,78 +1,27 @@
 {
-    "filter": [
-        {
-            "left": "market_cap_basic",
-            "operation": "nempty"
-        },
-        {
-            "left": "type",
-            "operation": "in_range",
-            "right": [
-                "stock",
-                "fund",
-                "dr"
-            ]
-        },
-        {
-            "left": "subtype",
-            "operation": "in_range",
-            "right": [
-                "common",
-                "",
-                "etf",
-                "unit",
-                "mutual",
-                "money",
-                "reit",
-                "trust",
-                "preferred"
-            ]
-        },
-        {
-            "left": "average_volume_10d_calc",
-            "operation": "egreater",
-            "right": 10
-        }
-    ],
-    "options": {
-        "data_restrictions": "PREV_BAR",
-        "lang": "en"
-    },
-    "symbols": {
-        "query": {
-            "types": []
-        },
-        "tickers": []
-    },
-    "columns": [
-        "logoid",
-        "name",
-        "close",
-        "change",
-        "change_abs",
-        "Recommend.All",
-        "volume",
-        "market_cap_basic",
-        "price_earnings_ttm",
-        "earnings_per_share_basic_ttm",
-        "number_of_employees",
-        "sector",
-        "description",
-        "name",
-        "type",
-        "subtype",
-        "update_mode",
-        "pricescale",
-        "minmov",
-        "fractional",
-        "minmove2"
-    ],
-    "sort": {
-        "sortBy": "name",
-        "sortOrder": "asc"
-    },
-    "range": [
-        0,
-        1000
-    ]
+  "filter": [
+    { "left": "name", "operation": "nempty" },
+    { "left": "is_primary", "operation": "equal", "right": true }
+  ],
+  "options": { "lang": "en" },
+  "markets": ["brazil"],
+  "symbols": { "query": { "types": [] }, "tickers": [] },
+  "columns": [
+    "logoid",
+    "name",
+    "volume",
+    "dividend_yield_recent",
+    "ebitda",
+    "price_earnings_ttm",
+    "price_sales_ratio",
+    "description",
+    "type",
+    "subtype",
+    "update_mode",
+    "currency",
+    "fundamental_currency_code"
+  ],
+  "sort": { "sortBy": "name", "sortOrder": "asc" },
+  "price_conversion": { "to_symbol": false },
+  "range": [0, 2000]
 }
