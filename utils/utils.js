@@ -68,7 +68,7 @@ module.exports = utils;
 
 const parseIfObject = (text) => {
     try{
-        return JSON.stringify(text);
+        if(typeof text === Object) return JSON.stringify(text); else return text;
     } catch(e){
         return text;
     }

@@ -2,20 +2,28 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 const cheerio = require('cheerio');
-const trade = require('./app/fundamentalista');
+const fundamentalista = require('./app/fundamentalista');
+const trade = require('./app/swing-day');
 const { time } = require('console');
 var request = require('axios');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
+    filePath = './index.html';
     if(request.url.indexOf('start') > -1){
         trade.init();
+    }
+    if(request.url.indexOf('fundamentalista') > -1){
+        if(request.url.indexOf('update') > -1){
+            fundamentalista.init();
+        }
+        filePath = 'fundamentalista.html';
     }
     // var filePath = '.' + request.url;
     // if (filePath == './') {
     //     filePath = './index.html';
     // }
-    filePath = './index.html';
+
 
     var extname = String(path.extname(filePath)).toLowerCase();
     var mimeTypes = {

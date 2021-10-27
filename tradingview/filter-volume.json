@@ -31,7 +31,7 @@
         {
             "left": "average_volume_10d_calc",
             "operation": "egreater",
-            "right": 100000
+            "right": 10
         }
     ],
     "options": {
