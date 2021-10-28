@@ -1,2 +1,65 @@
 
-Quantidade de papeis para analisar - 450
+Wed Oct 27 2021
+Quantidade de papeis para analisar - 586
+<table>
+<tr>
+<th>
+Análise
+</th>
+<th>
+DY
+</th>
+<th>
+PL
+</th>
+<th>
+MEBITDA
+</th>
+<th>
+Crescimento
+</th>
+<th>
+Liquidez média diária
+</th>
+</th>
+<tr>
+<td>
+AALR3 2021-10-27 21:58:33
+</td>
+<td>
+-
+</td>
+<td>
+60,81
+</td>
+<td>
+21,81%
+</td>
+<td>
+-%
+</td>
+<td>
+13.967.826,85
+</td>
+</tr>
+<tr>
+<td>
+ABCB4 2021-10-27 21:58:35
+</td>
+<td>
+6,27
+</td>
+<td>
+8,22
+</td>
+<td>
+-%
+</td>
+<td>
+2,52%
+</td>
+<td>
+15.993.992,46
+</td>
+</tr>
+</table>

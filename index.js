@@ -63,7 +63,7 @@ http.createServer(function (request, response) {
             response.writeHead(200, { 'Content-Type': contentType });
             const $ = cheerio.load(content);
             fs.readFile('./analisyHight.txt', (errH, contentH) => {
-                $('#hight pre').text(errH ? errH : contentH.toString());
+                $('#hight pre').html(errH ? errH : contentH.toString());
                 fs.readFile('./analisyLow.txt', (errL, contentL) => {
                     $('#low pre').text(errL ? errL : contentL.toString());
                     response.end($.html(), 'utf-8');
