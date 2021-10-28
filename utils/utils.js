@@ -7,8 +7,8 @@ const utils = {
         fs.appendFileSync('logs.txt', '\n' + parseIfObject(text));
     },
 
-    writeAnalisyHight: (text) => {
-        console.log(text);
+    writeAnalisyHight: (text, showLog = true) => {
+        showLog ? console.log(text) : undefined;
         fs.appendFileSync('analisyHight.txt', '\n' + parseIfObject(text));
     },
     writeAnalisyLow: (text) => {
