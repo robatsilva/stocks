@@ -16,7 +16,7 @@ const getStatusInvestIndicators = (stock) => {
 };
 
 const buildSockInfo = async (stocks) => {
-  for(let stock of stocks) {
+  for (let stock of stocks) {
     sleep(500);
     try {
       let response;
@@ -39,19 +39,26 @@ const buildSockInfo = async (stocks) => {
       ).text();
       const makeTD = (...texts) => {
         texts.forEach((text) => {
-            utils.writeAnalisyHight('<td>', false);
-            utils.writeAnalisyHight(text);
-            utils.writeAnalisyHight('</td>', false);
-        })
+          utils.writeAnalisyHight("<td class=''>", false);
+          utils.writeAnalisyHight(text);
+          utils.writeAnalisyHight('</td>', false);
+        });
       };
       utils.writeAnalisyHight('<tr>');
-      makeTD(stock, dy, pl, mebitda, crescimento, liquidez);
+      makeTD(
+        { name: stock, class: 'stock' },
+        { name: dy, class: 'dy' },
+        { name: pl, class: 'pl' },
+        { name: mebitda, class: 'mebitda' },
+        { name: crescimento, class: 'crescimento' },
+        { name: liquidez, class: 'liquidez' }
+      );
       utils.writeAnalisyHight('</tr>');
     } catch (e) {
       utils.writeFile('Erro - By & hold -> ' + stock + ' ' + e);
       return;
     }
-  };
+  }
 };
 
 //=======================================

@@ -19,17 +19,25 @@
     <div style="display: flex">
       <div style="flex: 1">
         <h2>*Análise fundamentalista</h2>
+  
         <table id="hight">
           <tr>
             <th>Papel</th>
-            <th>DY</th>
+            <th>
+              <div>DY</div>
+              <div>
+                <select id="operation-dy">
+                  <option value="acima">Acima</option>
+                  <option value="abaixo">Abaixo</option>
+                </select>
+                <input style="width: 30%" type="text" id="dy" />
+                <button onclick="filter('dy');">Filtrar</button>
+              </div>
+            </th>
             <th>PL</th>
-            <th>MEBITDA</th>
-            <th>Crescimento</th>
+            <th>MEBITDA %</th>
+            <th>Crescimento %</th>
             <th>Liquidez média diária</th>
-            <pre>
-                test
-            </pre>
           </tr>
         </table>
       </div>
@@ -39,4 +47,31 @@
       listados nessa página são apenas resultados de um script em teste
     </p>
   </body>
+  <script>
+    const filter = (indicador) => {
+      const operation = document.getElementById('operation-' + indicador).value;
+      const value = document.getElementById(indicador).value;
+      const cells = document.getElementsByClassName(indicador);
+      for (let cell of cells) {
+        const cellValue = Number(
+          cell.textContent
+            .replace('.', '')
+            .replace(',', '.')
+            .replace('-', '')
+            .replace('%', '')
+        );
+        if (!value) {
+          cell.parentElement.hidden = false;
+        }
+        if (
+          (operation === 'acima' && value >= cellValue) ||
+          (operation === 'abaixo' && value <= cellValue)
+        ) {
+          cell.parentElement.hidden = true;
+        } else {
+          cell.parentElement.hidden = false;
+        }
+      }
+    };
+  </script>
 </html>
