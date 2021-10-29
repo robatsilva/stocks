@@ -37,21 +37,21 @@ const buildSockInfo = async (stocks) => {
       const liquidez = $(
         '#main-2 > div:nth-child(4) > div > div:nth-child(4) > div > div > div:nth-child(3) > div > div > div > strong'
       ).text();
-      const makeTD = (...texts) => {
-        texts.forEach((text) => {
-          utils.writeAnalisyHight("<td class=''>", false);
-          utils.writeAnalisyHight(text);
+      const makeTD = (...indicators) => {
+        indicators.forEach((indicator) => {
+          utils.writeAnalisyHight("<td class="+ indicator.name + ">", false);
+          utils.writeAnalisyHight(indicator.value);
           utils.writeAnalisyHight('</td>', false);
         });
       };
       utils.writeAnalisyHight('<tr>');
       makeTD(
-        { name: stock, class: 'stock' },
-        { name: dy, class: 'dy' },
-        { name: pl, class: 'pl' },
-        { name: mebitda, class: 'mebitda' },
-        { name: crescimento, class: 'crescimento' },
-        { name: liquidez, class: 'liquidez' }
+        { value: stock, name: 'stock' },
+        { value: dy, name: 'dy' },
+        { value: pl, name: 'pl' },
+        { value: mebitda, name: 'mebitda' },
+        { value: crescimento, name: 'crescimento' },
+        { value: liquidez, name: 'liquidez' }
       );
       utils.writeAnalisyHight('</tr>');
     } catch (e) {
