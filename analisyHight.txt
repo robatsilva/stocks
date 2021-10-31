@@ -1,11723 +1,6263 @@
 
-Thu Oct 28 2021
-Quantidade de papeis para analisar - 586
+Sun Oct 31 2021
+Quantidade de papeis para analisar - 590
 <tr>
-<td>
+<td class=stock>
 AALR3
 </td>
-<td class="dy">
+<td class=dy>
 -
 </td>
-<td >
-60,37
+<td class=pl>
+59,53
 </td>
-<td>
+<td class=mebitda>
 21,81%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-13.966.056,08
+<td class=liquidez>
+13.993.644,20
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ABCB4
 </td>
-<td>
-6,30
+<td class=dy>
+6,56
 </td>
-<td>
-8,18
+<td class=pl>
+7,85
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 2,52%
 </td>
-<td>
-15.993.747,87
+<td class=liquidez>
+16.458.988,85
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ABCP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ABEV3
 </td>
-<td>
-3,22
+<td class=dy>
+2,89
 </td>
-<td>
-16,44
+<td class=pl>
+16,84
 </td>
-<td>
-36,28%
+<td class=mebitda>
+35,44%
 </td>
-<td>
-3,24%
+<td class=crescimento>
+4,99%
 </td>
-<td>
-371.078.724,54
+<td class=liquidez>
+408.213.262,24
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ACWI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AERI3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-51,62
+<td class=pl>
+52,30
 </td>
-<td>
+<td class=mebitda>
 9,12%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-22.645.329,38
+<td class=liquidez>
+22.177.903,02
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AESB3
 </td>
-<td>
-2,03
+<td class=dy>
+2,11
 </td>
-<td>
-241,42
+<td class=pl>
+232,08
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-29.247.285,69
+<td class=liquidez>
+28.851.456,88
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AGRO3
 </td>
-<td>
-9,08
+<td class=dy>
+10,45
 </td>
-<td>
-9,31
+<td class=pl>
+8,09
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 108,88%
 </td>
-<td>
-25.961.505,74
+<td class=liquidez>
+26.040.242,39
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AGXY3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--19,65
+<td class=pl>
+-18,61
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-1.123.906,23
+<td class=liquidez>
+1.074.408,17
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AIEC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ALLD3
 </td>
-<td>
-2,81
+<td class=dy>
+2,95
 </td>
-<td>
-4,41
+<td class=pl>
+4,20
 </td>
-<td>
+<td class=mebitda>
 9,99%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-10.317.297,90
+<td class=liquidez>
+10.140.224,90
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ALMI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ALPA3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-72,63
+<td class=pl>
+44,21
 </td>
-<td>
-13,22%
+<td class=mebitda>
+16,13%
 </td>
-<td>
-1,86%
+<td class=crescimento>
+10,54%
 </td>
-<td>
-99.293,26
+<td class=liquidez>
+96.677,98
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ALPK3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--4,66
+<td class=pl>
+-4,46
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-188.286,59
+<td class=liquidez>
+182.066,85
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ALSO3
 </td>
-<td>
-1,15
+<td class=dy>
+1,17
 </td>
-<td>
-41,00
+<td class=pl>
+40,13
 </td>
-<td>
+<td class=mebitda>
 53,58%
 </td>
-<td>
+<td class=crescimento>
 5,68%
 </td>
-<td>
-30.730.039,21
+<td class=liquidez>
+30.809.246,54
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
+ALUG11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
 ALUP3
 </td>
-<td>
-3,49
+<td class=dy>
+3,53
 </td>
-<td>
-5,24
+<td class=pl>
+5,18
 </td>
-<td>
+<td class=mebitda>
 68,31%
 </td>
-<td>
+<td class=crescimento>
 45,13%
 </td>
-<td>
-997.957,67
+<td class=liquidez>
+958.001,51
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ALZR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AMAR3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-10,66
+<td class=pl>
+9,61
 </td>
-<td>
+<td class=mebitda>
 -1,23%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-30.547.874,05
+<td class=liquidez>
+30.493.059,66
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AMBP3
 </td>
-<td>
-0,24
+<td class=dy>
+0,26
 </td>
-<td>
-46,76
+<td class=pl>
+43,73
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-89.198.455,79
+<td class=liquidez>
+87.995.974,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AMER3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--138,47
+<td class=pl>
+-124,97
 </td>
-<td>
+<td class=mebitda>
 7,71%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-268.874.875,26
+<td class=liquidez>
+265.350.745,17
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ANIM3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-118,30
+<td class=pl>
+112,36
 </td>
-<td>
+<td class=mebitda>
 22,13%
 </td>
-<td>
+<td class=crescimento>
 -18,01%
 </td>
-<td>
-25.646.228,26
+<td class=liquidez>
+25.665.494,68
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 APER3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-233,05
+<td class=pl>
+220,20
 </td>
-<td>
+<td class=mebitda>
 13,22%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-3.703.493,18
+<td class=liquidez>
+3.588.219,37
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ARCT11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ARML3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-280,06
+<td class=pl>
+277,28
 </td>
-<td>
+<td class=mebitda>
 52,37%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-14.220.510,56
+<td class=liquidez>
+14.042.263,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ARRI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ARZZ3
 </td>
-<td>
-1,10
+<td class=dy>
+0,43
 </td>
-<td>
-32,66
+<td class=pl>
+31,32
 </td>
-<td>
+<td class=mebitda>
 25,94%
 </td>
-<td>
+<td class=crescimento>
 14,70%
 </td>
-<td>
-64.608.046,77
+<td class=liquidez>
+63.218.226,02
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ASAI3
 </td>
-<td>
-0,71
+<td class=dy>
+0,72
 </td>
-<td>
-12,60
+<td class=pl>
+11,64
 </td>
-<td>
-10,78%
+<td class=mebitda>
+11,67%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-268.993.311,15
+<td class=liquidez>
+264.155.217,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ASIA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ATMP3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 -0,79
 </td>
-<td>
+<td class=mebitda>
 4,93%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-158.772,56
+<td class=liquidez>
+170.423,63
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ATOM3
 </td>
-<td>
-7,41
+<td class=dy>
+7,58
 </td>
-<td>
-7,18
+<td class=pl>
+7,02
 </td>
-<td>
+<td class=mebitda>
 32,16%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-129.646,79
+<td class=liquidez>
+127.336,34
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ATSA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AVLL3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--1,76
+<td class=pl>
+-1,73
 </td>
-<td>
+<td class=mebitda>
 -60,51%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-153.090,67
+<td class=liquidez>
+148.419,15
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 AZEV3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-1,41
+<td class=pl>
+1,34
 </td>
-<td>
+<td class=mebitda>
 1.118,88%
 </td>
-<td>
+<td class=crescimento>
 164,18%
 </td>
-<td>
-910.116,90
+<td class=liquidez>
+885.498,56
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 B3SA3
 </td>
-<td>
-7,92
+<td class=dy>
+8,05
 </td>
-<td>
-15,85
+<td class=pl>
+15,59
 </td>
-<td>
+<td class=mebitda>
 73,45%
 </td>
-<td>
+<td class=crescimento>
 16,29%
 </td>
-<td>
-726.457.486,41
+<td class=liquidez>
+708.330.761,05
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 B5MB11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 B5P211
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BAHI3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--4,85
+<td class=pl>
+-4,88
 </td>
-<td>
+<td class=mebitda>
 -2,30%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-44.248,66
+<td class=liquidez>
+43.738,23
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BALM3
 </td>
-<td>
-2,13
+<td class=dy>
+2,15
 </td>
-<td>
-22,54
+<td class=pl>
+22,26
 </td>
-<td>
+<td class=mebitda>
 10,73%
 </td>
-<td>
+<td class=crescimento>
 -13,19%
 </td>
-<td>
-10.090,54
+<td class=liquidez>
+11.631,21
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BARI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BAZA3
 </td>
-<td>
-6,88
+<td class=dy>
+6,84
 </td>
-<td>
-2,44
+<td class=pl>
+2,45
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 13,03%
 </td>
-<td>
-37.600,76
+<td class=liquidez>
+36.060,74
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBAS3
 </td>
-<td>
-6,89
+<td class=dy>
+7,02
 </td>
-<td>
-5,26
+<td class=pl>
+5,16
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 2,46%
 </td>
-<td>
-422.401.539,56
+<td class=liquidez>
+415.926.057,54
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBDC3
 </td>
-<td>
-6,23
+<td class=dy>
+6,42
 </td>
-<td>
-7,84
+<td class=pl>
+7,61
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 3,74%
 </td>
-<td>
-135.454.011,36
+<td class=liquidez>
+132.844.647,59
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBOV11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBPO11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBRC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBRK3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--0,91
+<td class=pl>
+-0,88
 </td>
-<td>
+<td class=mebitda>
 -88,77%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-3.257.587,44
+<td class=liquidez>
+3.259.423,73
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBSD
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBSE3
 </td>
-<td>
-4,43
+<td class=dy>
+4,49
 </td>
-<td>
-12,03
+<td class=pl>
+11,86
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -2,32%
 </td>
-<td>
-132.876.156,64
+<td class=liquidez>
+132.125.404,27
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BBVH11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BCIA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BCRI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BDIV11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BDLL3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--0,37
+<td class=pl>
+-0,34
 </td>
-<td>
+<td class=mebitda>
 -198,23%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-15.059,97
+<td class=liquidez>
+14.684,54
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BEES3
 </td>
-<td>
-5,66
+<td class=dy>
+5,93
 </td>
-<td>
-6,97
+<td class=pl>
+6,88
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 7,19%
 </td>
-<td>
-87.570,08
+<td class=liquidez>
+86.344,68
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BGIP3
 </td>
-<td>
+<td class=dy>
 3,54
 </td>
-<td>
+<td class=pl>
 6,14
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 24,00%
 </td>
-<td>
+<td class=liquidez>
 6.143,55
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BICR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BIDB11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BIDI3
 </td>
-<td>
-0,13
+<td class=dy>
+0,14
 </td>
-<td>
-630,32
+<td class=pl>
+557,01
 </td>
-<td>
+<td class=mebitda>
 0,91%
 </td>
-<td>
+<td class=crescimento>
 10,20%
 </td>
-<td>
-27.341.203,67
+<td class=liquidez>
+27.287.302,29
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BIOM3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--12,97
+<td class=pl>
+-13,45
 </td>
-<td>
+<td class=mebitda>
 -55,19%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-159.701,15
+<td class=liquidez>
+156.819,83
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BITH11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BKBR3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--4,33
+<td class=pl>
+-4,06
 </td>
-<td>
+<td class=mebitda>
 -5,56%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-23.532.976,26
+<td class=liquidez>
+22.886.005,37
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BLAU3
 </td>
-<td>
+<td class=dy>
 0,33
 </td>
-<td>
-20,08
+<td class=pl>
+20,21
 </td>
-<td>
+<td class=mebitda>
 37,45%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-18.583.340,77
+<td class=liquidez>
+18.333.934,78
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BLCP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BLMC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BLMG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BLMR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BLUT3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--6,92
+<td class=pl>
+-6,59
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-1.868.265,00
+<td class=liquidez>
+1.755.141,59
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BMEB3
 </td>
-<td>
+<td class=dy>
 5,20
 </td>
-<td>
+<td class=pl>
 6,69
 </td>
-<td>
+<td class=mebitda>
 12,32%
 </td>
-<td>
+<td class=crescimento>
 11,41%
 </td>
-<td>
+<td class=liquidez>
 10.966,96
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BMGB4
 </td>
-<td>
-5,24
+<td class=dy>
+5,80
 </td>
-<td>
-6,33
+<td class=pl>
+5,72
 </td>
-<td>
+<td class=mebitda>
 10,11%
 </td>
-<td>
+<td class=crescimento>
 8,66%
 </td>
-<td>
-3.985.843,56
+<td class=liquidez>
+4.055.371,32
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
+BMIN3
+</td>
+<td class=dy>
+-
+</td>
+<td class=pl>
+25,25
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+-1,49%
+</td>
+<td class=liquidez>
+6.497,75
+</td>
+</tr>
+<tr>
+<td class=stock>
 BMKS3
 </td>
-<td>
+<td class=dy>
 3,49
 </td>
-<td>
+<td class=pl>
 35,45
 </td>
-<td>
+<td class=mebitda>
 15,85%
 </td>
-<td>
+<td class=crescimento>
 -22,91%
 </td>
-<td>
-170.833,45
+<td class=liquidez>
+165.502,00
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BMLC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BMOB3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-20,49
+<td class=pl>
+19,41
 </td>
-<td>
+<td class=mebitda>
 45,90%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-18.715.817,74
+<td class=liquidez>
+18.684.757,05
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BNBR3
 </td>
-<td>
-4,01
+<td class=dy>
+6,49
 </td>
-<td>
-4,33
+<td class=pl>
+4,54
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 35,51%
 </td>
-<td>
-30.050,71
+<td class=liquidez>
+28.992,44
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BOAS3
 </td>
-<td>
-0,21
+<td class=dy>
+0,22
 </td>
-<td>
-81,40
+<td class=pl>
+77,94
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-12.270.832,87
+<td class=liquidez>
+12.480.721,93
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BOVA
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BOVB11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BOVV
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BOVX11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BPAC3
 </td>
-<td>
+<td class=dy>
 0,78
 </td>
-<td>
-23,55
+<td class=pl>
+23,30
 </td>
-<td>
+<td class=mebitda>
 63,57%
 </td>
-<td>
+<td class=crescimento>
 56,07%
 </td>
-<td>
-149.629,87
+<td class=liquidez>
+144.177,32
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BPAN4
 </td>
-<td>
-1,47
+<td class=dy>
+1,58
 </td>
-<td>
-23,58
+<td class=pl>
+21,94
 </td>
-<td>
+<td class=mebitda>
 12,56%
 </td>
-<td>
+<td class=crescimento>
 38,52%
 </td>
-<td>
-128.272.671,10
+<td class=liquidez>
+126.187.376,00
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BPML11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BPRP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRAP3
 </td>
-<td>
-13,66
+<td class=dy>
+14,36
 </td>
-<td>
-3,73
+<td class=pl>
+3,55
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-13.388.977,41
+<td class=liquidez>
+12.924.986,78
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRAX
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRAX11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRBI11
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-35,50
+<td class=pl>
+33,41
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-11.389.040,82
+<td class=liquidez>
+10.973.739,20
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRCO11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRCR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRDT3
 </td>
-<td>
-10,79
+<td class=dy>
+11,11
 </td>
-<td>
-5,78
+<td class=pl>
+5,61
 </td>
-<td>
+<td class=mebitda>
 5,87%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
+<td class=liquidez>
 298.546.540,71
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BREV11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRGE3
 </td>
-<td>
+<td class=dy>
 0,01
 </td>
-<td>
+<td class=pl>
 25,42
 </td>
-<td>
+<td class=mebitda>
 3.278,08%
 </td>
-<td>
+<td class=crescimento>
 -16,72%
 </td>
-<td>
+<td class=liquidez>
 3.986,09
 </td>
 </tr>
 <tr>
-<td>
-BRIP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
+<td class=stock>
 BRIT3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-7.875,30
+<td class=pl>
+7.109,90
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-6.031.818,36
+<td class=liquidez>
+5.828.292,22
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRIV3
 </td>
-<td>
+<td class=dy>
 0,21
 </td>
-<td>
+<td class=pl>
 9,69
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -0,16%
 </td>
-<td>
+<td class=liquidez>
 3.112,78
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRKM3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-4,60
+<td class=pl>
+4,37
 </td>
-<td>
+<td class=mebitda>
 24,22%
 </td>
-<td>
+<td class=crescimento>
 25,52%
 </td>
-<td>
-567.228,79
+<td class=liquidez>
+544.215,68
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
+BRLA11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
 BRML3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-41,40
+<td class=pl>
+41,45
 </td>
-<td>
+<td class=mebitda>
 49,81%
 </td>
-<td>
+<td class=crescimento>
 98,92%
 </td>
-<td>
-144.689.539,46
+<td class=liquidez>
+146.955.357,85
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRPR3
 </td>
-<td>
-2,67
+<td class=dy>
+2,75
 </td>
-<td>
-16,40
+<td class=pl>
+15,91
 </td>
-<td>
+<td class=mebitda>
 130,80%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-26.247.727,49
+<td class=liquidez>
+25.489.944,32
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRSR3
 </td>
-<td>
-7,94
+<td class=dy>
+8,16
 </td>
-<td>
-5,84
+<td class=pl>
+5,68
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 0,33%
 </td>
-<td>
-86.353,13
+<td class=liquidez>
+84.026,93
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BRZP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BSLI3
 </td>
-<td>
-5,42
+<td class=dy>
+5,52
 </td>
-<td>
-19,58
+<td class=pl>
+19,21
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 36,13%
 </td>
-<td>
-28.521,63
+<td class=liquidez>
+27.225,55
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BTAL11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BTCR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BTLG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BTRA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 BZLI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CAMB3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-6,16
+<td class=pl>
+13,92
 </td>
-<td>
-20,64%
+<td class=mebitda>
+18,05%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-275.579,72
+<td class=liquidez>
+270.917,88
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CAML3
 </td>
-<td>
+<td class=dy>
 6,62
 </td>
-<td>
+<td class=pl>
 7,76
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 33,02%
 </td>
-<td>
-16.075.551,82
+<td class=liquidez>
+16.240.065,78
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CARD3
 </td>
-<td>
-2,83
+<td class=dy>
+2,96
 </td>
-<td>
-13,70
+<td class=pl>
+13,12
 </td>
-<td>
+<td class=mebitda>
 29,69%
 </td>
-<td>
+<td class=crescimento>
 23,22%
 </td>
-<td>
-7.669.722,33
+<td class=liquidez>
+7.672.880,32
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CARE11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CASH3
 </td>
-<td>
-0,17
+<td class=dy>
+0,19
 </td>
-<td>
-654,69
+<td class=pl>
+605,17
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-297.230.380,38
+<td class=liquidez>
+288.719.264,51
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CBAV3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-28,36
+<td class=pl>
+26,15
 </td>
-<td>
+<td class=mebitda>
 23,87%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-41.430.872,90
+<td class=liquidez>
+41.458.125,44
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
+CBEE3
+</td>
+<td class=dy>
+0,30
+</td>
+<td class=pl>
+145,09
+</td>
+<td class=mebitda>
+5,84%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+36.541,14
+</td>
+</tr>
+<tr>
+<td class=stock>
 CBOP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CCRO3
 </td>
-<td>
-0,77
+<td class=dy>
+0,79
 </td>
-<td>
-34,19
+<td class=pl>
+33,57
 </td>
-<td>
+<td class=mebitda>
 53,72%
 </td>
-<td>
+<td class=crescimento>
 -4,67%
 </td>
-<td>
-172.801.212,31
+<td class=liquidez>
+174.013.523,98
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEAB3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-166,32
+<td class=pl>
+163,18
 </td>
-<td>
+<td class=mebitda>
 6,06%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-17.950.567,97
+<td class=liquidez>
+17.646.791,90
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEBR3
 </td>
-<td>
-88,82
+<td class=dy>
+94,82
 </td>
-<td>
-0,93
+<td class=pl>
+0,87
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 130,50%
 </td>
-<td>
-279.522,00
+<td class=liquidez>
+268.777,26
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEDO3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-21,69
+<td class=pl>
+21,84
 </td>
-<td>
+<td class=mebitda>
 7,19%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-7.974,55
+<td class=liquidez>
+8.344,09
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEEB3
 </td>
-<td>
-12,94
+<td class=dy>
+12,98
 </td>
-<td>
-5,46
+<td class=pl>
+5,45
 </td>
-<td>
+<td class=mebitda>
 23,37%
 </td>
-<td>
+<td class=crescimento>
 38,42%
 </td>
-<td>
-73.712,96
+<td class=liquidez>
+71.293,55
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEED3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 -3,05
 </td>
-<td>
+<td class=mebitda>
 -2,07%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
+<td class=liquidez>
 5.066,43
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEGR3
 </td>
-<td>
+<td class=dy>
 2,26
 </td>
-<td>
+<td class=pl>
 41,56
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 5,68%
 </td>
-<td>
+<td class=liquidez>
 10.017,50
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CEOC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CESP3
 </td>
-<td>
-10,82
+<td class=dy>
+10,93
 </td>
-<td>
-3,76
+<td class=pl>
+3,72
 </td>
-<td>
+<td class=mebitda>
 84,03%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-348.532,69
+<td class=liquidez>
+344.998,90
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CGAS3
 </td>
-<td>
+<td class=dy>
 6,07
 </td>
-<td>
+<td class=pl>
 11,15
 </td>
-<td>
+<td class=mebitda>
 29,02%
 </td>
-<td>
+<td class=crescimento>
 18,95%
 </td>
-<td>
+<td class=liquidez>
 23.515,55
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CGRA3
 </td>
-<td>
-4,15
+<td class=dy>
+4,13
 </td>
-<td>
-14,06
+<td class=pl>
+14,12
 </td>
-<td>
+<td class=mebitda>
 24,89%
 </td>
-<td>
+<td class=crescimento>
 6,48%
 </td>
-<td>
-84.719,72
+<td class=liquidez>
+81.614,24
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CIEL3
 </td>
-<td>
-4,94
+<td class=dy>
+5,30
 </td>
-<td>
--40,47
+<td class=pl>
+-37,73
 </td>
-<td>
+<td class=mebitda>
 11,52%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-90.735.806,82
+<td class=liquidez>
+90.228.613,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CJCT11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CLSA3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-136,04
+<td class=pl>
+121,08
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-15.053.960,79
+<td class=liquidez>
+15.005.454,41
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CLSC3
 </td>
-<td>
+<td class=dy>
 4,87
 </td>
-<td>
+<td class=pl>
 4,09
 </td>
-<td>
+<td class=mebitda>
 10,68%
 </td>
-<td>
+<td class=crescimento>
 36,24%
 </td>
-<td>
+<td class=liquidez>
 23.359,30
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CMIG3
 </td>
-<td>
-5,03
+<td class=dy>
+5,36
 </td>
-<td>
-7,12
+<td class=pl>
+6,68
 </td>
-<td>
+<td class=mebitda>
 25,84%
 </td>
-<td>
+<td class=crescimento>
 11,46%
 </td>
-<td>
-10.280.422,97
+<td class=liquidez>
+10.199.174,37
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CMIN3
 </td>
-<td>
-6,75
+<td class=dy>
+7,22
 </td>
-<td>
-4,12
+<td class=pl>
+3,85
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-63.593.398,64
+<td class=liquidez>
+62.992.368,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CNES11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 COCE3
 </td>
-<td>
+<td class=dy>
 6,40
 </td>
-<td>
+<td class=pl>
 0,86
 </td>
-<td>
+<td class=mebitda>
 72,17%
 </td>
-<td>
+<td class=crescimento>
 69,87%
 </td>
-<td>
+<td class=liquidez>
 6.301,83
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 COGN3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--0,90
+<td class=pl>
+-0,85
 </td>
-<td>
+<td class=mebitda>
 -102,00%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-116.491.820,05
+<td class=liquidez>
+115.806.032,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CORM11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CPLE3
 </td>
-<td>
-24,64
+<td class=dy>
+25,32
 </td>
-<td>
-4,34
+<td class=pl>
+4,22
 </td>
-<td>
+<td class=mebitda>
 24,59%
 </td>
-<td>
+<td class=crescimento>
 24,16%
 </td>
-<td>
-19.050.671,46
+<td class=liquidez>
+18.611.746,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CPTI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CPTS11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CRDE3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 -2,91
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-13.282,08
+<td class=liquidez>
+12.733,69
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CRIV3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 9,69
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 6,93%
 </td>
-<td>
+<td class=liquidez>
 5.298,88
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CSAN3
 </td>
-<td>
-1,25
+<td class=dy>
+1,31
 </td>
-<td>
-15,37
+<td class=pl>
+14,77
 </td>
-<td>
+<td class=mebitda>
 30,14%
 </td>
-<td>
+<td class=crescimento>
 33,99%
 </td>
-<td>
-199.433.166,21
+<td class=liquidez>
+197.475.718,78
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CSED3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-31,38
+<td class=pl>
+30,12
 </td>
-<td>
+<td class=mebitda>
 21,28%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-5.566.759,87
+<td class=liquidez>
+5.646.194,05
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CSMG3
 </td>
-<td>
-22,24
+<td class=dy>
+22,88
 </td>
-<td>
-5,50
+<td class=pl>
+5,34
 </td>
-<td>
+<td class=mebitda>
 37,02%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-27.794.372,90
+<td class=liquidez>
+27.646.045,54
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CSNA3
 </td>
-<td>
-7,84
+<td class=dy>
+8,43
 </td>
-<td>
-2,26
+<td class=pl>
+2,11
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-381.126.341,33
+<td class=liquidez>
+375.697.350,56
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CSRN3
 </td>
-<td>
+<td class=dy>
 10,61
 </td>
-<td>
+<td class=pl>
 5,95
 </td>
-<td>
+<td class=mebitda>
 21,88%
 </td>
-<td>
+<td class=crescimento>
 21,19%
 </td>
-<td>
+<td class=liquidez>
 15.682,69
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CTKA3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 1,74
 </td>
-<td>
+<td class=mebitda>
 24,32%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
+<td class=liquidez>
 21.181,42
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CTNM3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--3,13
+<td class=pl>
+-3,09
 </td>
-<td>
+<td class=mebitda>
 9,66%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-6.701,14
+<td class=liquidez>
+6.323,00
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CTSA3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-101,56
+<td class=pl>
+98,33
 </td>
-<td>
+<td class=mebitda>
 10,67%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-43.313,90
+<td class=liquidez>
+41.606,71
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CTXT11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CURY3
 </td>
-<td>
-5,60
+<td class=dy>
+5,85
 </td>
-<td>
-24,10
+<td class=pl>
+23,07
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-8.849.165,85
+<td class=liquidez>
+8.818.121,46
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CVBI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CVCB3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--52,35
+<td class=pl>
+-50,46
 </td>
-<td>
+<td class=mebitda>
 -85,30%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-164.815.726,77
+<td class=liquidez>
+162.712.721,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CXCE11B
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CXCO11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CXRI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CXSE3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-14,72
+<td class=pl>
+14,46
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-34.026.060,79
+<td class=liquidez>
+33.684.096,24
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CXTL11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 CYRE3
 </td>
-<td>
-17,42
+<td class=dy>
+18,80
 </td>
-<td>
-2,86
+<td class=pl>
+2,65
 </td>
-<td>
+<td class=mebitda>
 47,25%
 </td>
-<td>
+<td class=crescimento>
 36,52%
 </td>
-<td>
-152.253.027,46
+<td class=liquidez>
+150.283.141,27
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DAMT11B
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DASA3
 </td>
-<td>
-0,79
+<td class=dy>
+0,81
 </td>
-<td>
--328,14
+<td class=pl>
+-317,80
 </td>
-<td>
+<td class=mebitda>
 10,04%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-9.580.861,13
+<td class=liquidez>
+9.520.773,10
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DESK3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-131,37
+<td class=pl>
+125,74
 </td>
-<td>
+<td class=mebitda>
 32,67%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-8.967.728,72
+<td class=liquidez>
+9.070.114,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DEVA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DEXP3
 </td>
-<td>
-2,94
+<td class=dy>
+3,15
 </td>
-<td>
-5,95
+<td class=pl>
+5,55
 </td>
-<td>
+<td class=mebitda>
 20,04%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-6.535.419,10
+<td class=liquidez>
+6.521.600,29
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DIRR3
 </td>
-<td>
-6,74
+<td class=dy>
+7,34
 </td>
-<td>
-11,21
+<td class=pl>
+10,30
 </td>
-<td>
+<td class=mebitda>
 19,95%
 </td>
-<td>
+<td class=crescimento>
 2,06%
 </td>
-<td>
-18.894.127,92
+<td class=liquidez>
+19.168.632,56
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DIVO
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DMMO3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-0,54
+<td class=pl>
+0,53
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-2.639.761,79
+<td class=liquidez>
+2.604.895,56
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DNAI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DOTZ3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--7,58
+<td class=pl>
+-7,52
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-792.700,13
+<td class=liquidez>
+761.378,17
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DRIT11B
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DTCY3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--16,91
+<td class=pl>
+-16,88
 </td>
-<td>
+<td class=mebitda>
 -1,78%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-18.873,88
+<td class=liquidez>
+18.690,96
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 DXCO3
 </td>
-<td>
-4,47
+<td class=dy>
+4,86
 </td>
-<td>
-8,01
+<td class=pl>
+7,37
 </td>
-<td>
+<td class=mebitda>
 34,11%
 </td>
-<td>
+<td class=crescimento>
 51,12%
 </td>
-<td>
-56.522.538,13
+<td class=liquidez>
+57.198.544,51
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EALT3
 </td>
-<td>
+<td class=dy>
 2,36
 </td>
-<td>
-9,50
+<td class=pl>
+9,00
 </td>
-<td>
-15,10%
+<td class=mebitda>
+14,75%
 </td>
-<td>
-196,51%
+<td class=crescimento>
+199,72%
 </td>
-<td>
+<td class=liquidez>
 7.669,29
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ECOO
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ECOR3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--22,19
+<td class=pl>
+-21,03
 </td>
-<td>
+<td class=mebitda>
 40,65%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-62.506.063,44
+<td class=liquidez>
+63.326.018,80
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EDGA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
+EEEL3
+</td>
+<td class=dy>
+11,30
+</td>
+<td class=pl>
+6,11
+</td>
+<td class=mebitda>
+45,64%
+</td>
+<td class=crescimento>
+44,20%
+</td>
+<td class=liquidez>
+45.812,50
+</td>
+</tr>
+<tr>
+<td class=stock>
 EGIE3
 </td>
-<td>
-6,61
+<td class=dy>
+6,75
 </td>
-<td>
-13,60
+<td class=pl>
+13,32
 </td>
-<td>
+<td class=mebitda>
 51,11%
 </td>
-<td>
+<td class=crescimento>
 9,55%
 </td>
-<td>
-60.752.996,87
+<td class=liquidez>
+60.398.897,95
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EGYR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ELET3
 </td>
-<td>
-6,59
+<td class=dy>
+7,10
 </td>
-<td>
-10,22
+<td class=pl>
+9,50
 </td>
-<td>
+<td class=mebitda>
 18,76%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-199.897.501,00
+<td class=liquidez>
+201.881.400,46
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ELMD3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--37,96
+<td class=pl>
+-37,84
 </td>
-<td>
+<td class=mebitda>
 1,22%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-3.205.538,64
+<td class=liquidez>
+3.162.941,90
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EMBR3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--23,51
+<td class=pl>
+-22,76
 </td>
-<td>
+<td class=mebitda>
 6,65%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-246.860.773,41
+<td class=liquidez>
+244.148.144,12
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EMEG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENAT3
 </td>
-<td>
-1,39
+<td class=dy>
+1,52
 </td>
-<td>
-7,01
+<td class=pl>
+6,41
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 41,41%
 </td>
-<td>
-26.343.202,31
+<td class=liquidez>
+25.933.815,05
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENBR3
 </td>
-<td>
-5,00
+<td class=dy>
+5,12
 </td>
-<td>
-5,67
+<td class=pl>
+5,54
 </td>
-<td>
+<td class=mebitda>
 24,76%
 </td>
-<td>
+<td class=crescimento>
 10,13%
 </td>
-<td>
-62.805.288,49
+<td class=liquidez>
+63.525.301,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENDD11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENEV3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-17,29
+<td class=pl>
+17,24
 </td>
-<td>
+<td class=mebitda>
 45,79%
 </td>
-<td>
+<td class=crescimento>
 49,45%
 </td>
-<td>
-108.497.825,41
+<td class=liquidez>
+107.524.454,73
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENGI3
 </td>
-<td>
-2,43
+<td class=dy>
+2,57
 </td>
-<td>
-10,44
+<td class=pl>
+9,87
 </td>
-<td>
+<td class=mebitda>
 22,82%
 </td>
-<td>
+<td class=crescimento>
 50,40%
 </td>
-<td>
-147.828,95
+<td class=liquidez>
+150.008,44
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENJU3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--9,80
+<td class=pl>
+-8,80
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-11.710.781,18
+<td class=liquidez>
+11.539.163,24
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ENMT3
 </td>
-<td>
+<td class=dy>
 5,77
 </td>
-<td>
+<td class=pl>
 14,73
 </td>
-<td>
+<td class=mebitda>
 28,91%
 </td>
-<td>
+<td class=crescimento>
 92,28%
 </td>
-<td>
-159.512,14
+<td class=liquidez>
+155.303,47
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EPAR3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-4,34
+<td class=pl>
+4,22
 </td>
-<td>
+<td class=mebitda>
 10,20%
 </td>
-<td>
+<td class=crescimento>
 -9,14%
 </td>
-<td>
-60.953,68
+<td class=liquidez>
+58.418,28
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EQIN11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EQMA3B
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EQPA3
 </td>
-<td>
-8,93
+<td class=dy>
+8,59
 </td>
-<td>
-13,19
+<td class=pl>
+13,72
 </td>
-<td>
+<td class=mebitda>
 25,71%
 </td>
-<td>
+<td class=crescimento>
 10,16%
 </td>
-<td>
-44.318,23
+<td class=liquidez>
+45.584,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EQTL3
 </td>
-<td>
-2,96
+<td class=dy>
+3,14
 </td>
-<td>
-8,21
+<td class=pl>
+7,75
 </td>
-<td>
+<td class=mebitda>
 30,04%
 </td>
-<td>
+<td class=crescimento>
 29,92%
 </td>
-<td>
-171.683.312,82
+<td class=liquidez>
+179.567.132,44
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ERPA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ESGB11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ESPA3
 </td>
-<td>
-1,38
+<td class=dy>
+1,45
 </td>
-<td>
-9,60
+<td class=pl>
+9,13
 </td>
-<td>
+<td class=mebitda>
 44,05%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-27.733.798,82
+<td class=liquidez>
+27.112.607,12
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ETER3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-3,21
+<td class=pl>
+2,92
 </td>
-<td>
+<td class=mebitda>
 36,08%
 </td>
-<td>
+<td class=crescimento>
 56,82%
 </td>
-<td>
-24.396.694,69
+<td class=liquidez>
+23.914.709,22
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 ETHE11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EUCA3
 </td>
-<td>
-2,48
+<td class=dy>
+2,54
 </td>
-<td>
-4,72
+<td class=pl>
+4,61
 </td>
-<td>
+<td class=mebitda>
 22,49%
 </td>
-<td>
+<td class=crescimento>
 94,72%
 </td>
-<td>
-163.148,92
+<td class=liquidez>
+156.709,24
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EURO11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EURP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EVBI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EVEN3
 </td>
-<td>
-11,22
+<td class=dy>
+12,18
 </td>
-<td>
-16,01
+<td class=pl>
+14,76
 </td>
-<td>
+<td class=mebitda>
 7,15%
 </td>
-<td>
+<td class=crescimento>
 -2,49%
 </td>
-<td>
-12.796.952,56
+<td class=liquidez>
+12.785.172,51
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 EZTC3
 </td>
-<td>
-2,17
+<td class=dy>
+2,31
 </td>
-<td>
-9,41
+<td class=pl>
+8,84
 </td>
-<td>
+<td class=mebitda>
 29,72%
 </td>
-<td>
+<td class=crescimento>
 1,22%
 </td>
-<td>
-60.263.880,03
+<td class=liquidez>
+59.638.862,88
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 G2DI33
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-21,85
+<td class=pl>
+21,62
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-1.078.591,05
+<td class=liquidez>
+1.061.275,66
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GALG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GCRI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GENB11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GEPA3
 </td>
-<td>
+<td class=dy>
 11,11
 </td>
-<td>
+<td class=pl>
 5,85
 </td>
-<td>
+<td class=mebitda>
 113,08%
 </td>
-<td>
+<td class=crescimento>
 22,74%
 </td>
-<td>
+<td class=liquidez>
 15.557,67
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GETT11
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 -
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-37.114.467,75
+<td class=liquidez>
+32.685.765,50
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GETT3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 -
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-15.346.510,63
+<td class=liquidez>
+12.936.046,40
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GETT4
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
+<td class=pl>
 -
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-11.972.067,88
+<td class=liquidez>
+9.988.382,30
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GGBR3
 </td>
-<td>
-7,82
+<td class=dy>
+7,89
 </td>
-<td>
-2,95
+<td class=pl>
+2,92
 </td>
-<td>
+<td class=mebitda>
+29,80%
+</td>
+<td class=crescimento>
 -%
 </td>
-<td>
--%
-</td>
-<td>
-2.784.279,56
+<td class=liquidez>
+2.727.826,76
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GGPS3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-94,86
+<td class=pl>
+89,12
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-19.473.343,18
+<td class=liquidez>
+19.128.115,37
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GGRC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GMAT3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-21,25
+<td class=pl>
+20,33
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-45.666.558,51
+<td class=liquidez>
+45.545.911,54
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GNDI3
 </td>
-<td>
-0,43
+<td class=dy>
+0,44
 </td>
-<td>
-148,53
+<td class=pl>
+143,29
 </td>
-<td>
+<td class=mebitda>
 9,37%
 </td>
-<td>
+<td class=crescimento>
 36,49%
 </td>
-<td>
-266.708.440,26
+<td class=liquidez>
+265.863.120,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GOAU3
 </td>
-<td>
-7,71
+<td class=dy>
+7,72
 </td>
-<td>
-3,21
+<td class=pl>
+3,20
 </td>
-<td>
+<td class=mebitda>
 29,74%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-486.054,31
+<td class=liquidez>
+715.997,41
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GOLD11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GOLL4
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--14,07
+<td class=pl>
+-13,51
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-114.812.611,18
+<td class=liquidez>
+112.976.277,32
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GOVE
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GPAR3
 </td>
-<td>
-1,11
+<td class=dy>
+1,18
 </td>
-<td>
-22,69
+<td class=pl>
+21,43
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-24.775,00
+<td class=liquidez>
+23.828,13
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GPIV33
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-1,90
+<td class=pl>
+1,78
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-5.411.296,95
+<td class=liquidez>
+5.190.094,98
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GRND3
 </td>
-<td>
-7,42
+<td class=dy>
+7,68
 </td>
-<td>
-13,79
+<td class=pl>
+11,42
 </td>
-<td>
-23,01%
+<td class=mebitda>
+22,32%
 </td>
-<td>
-1,10%
+<td class=crescimento>
+4,27%
 </td>
-<td>
-24.324.282,13
+<td class=liquidez>
+24.280.684,66
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GSHP3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--4,54
+<td class=pl>
+-4,48
 </td>
-<td>
+<td class=mebitda>
 53,29%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-37.231,41
+<td class=liquidez>
+40.425,13
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GTWR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 GUAR3
 </td>
-<td>
-3,93
+<td class=dy>
+4,25
 </td>
-<td>
-22,95
+<td class=pl>
+21,22
 </td>
-<td>
+<td class=mebitda>
 10,66%
 </td>
-<td>
+<td class=crescimento>
 -5,94%
 </td>
-<td>
-10.184.100,08
+<td class=liquidez>
+10.280.652,93
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HAAA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HABT11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HAGA3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-5,00
+<td class=pl>
+5,17
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 25,47%
 </td>
-<td>
-54.881,28
+<td class=liquidez>
+59.872,37
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HAPV3
 </td>
-<td>
-0,48
+<td class=dy>
+0,50
 </td>
-<td>
-77,64
+<td class=pl>
+75,22
 </td>
-<td>
+<td class=mebitda>
 17,78%
 </td>
-<td>
+<td class=crescimento>
 14,58%
 </td>
-<td>
-231.710.408,05
+<td class=liquidez>
+230.519.259,71
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HASH11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HBCR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HBOR3
 </td>
-<td>
-0,91
+<td class=dy>
+0,99
 </td>
-<td>
-7,04
+<td class=pl>
+6,46
 </td>
-<td>
+<td class=mebitda>
 15,15%
 </td>
-<td>
+<td class=crescimento>
 7,57%
 </td>
-<td>
-8.302.635,62
+<td class=liquidez>
+8.422.615,80
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HBRE3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--26,81
+<td class=pl>
+-26,35
 </td>
-<td>
+<td class=mebitda>
 86,68%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-279.681,18
+<td class=liquidez>
+275.320,80
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HBRH11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HBSA3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--43,77
+<td class=pl>
+-40,69
 </td>
-<td>
+<td class=mebitda>
 37,36%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-16.439.640,67
+<td class=liquidez>
+16.474.625,83
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HCHG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HCRI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HCST11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HCTR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGBS11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGCR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGIC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGLG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGPO11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGRE11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HGRU11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HLOG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HOSI11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HPDP11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HREC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HSLG11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HSML11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HSRE11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HTEK11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HTMX11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HUSC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 HYPE3
 </td>
-<td>
-4,27
+<td class=dy>
+4,32
 </td>
-<td>
-13,98
+<td class=pl>
+13,81
 </td>
-<td>
+<td class=mebitda>
 29,16%
 </td>
-<td>
+<td class=crescimento>
 18,22%
 </td>
-<td>
-106.310.600,00
+<td class=liquidez>
+105.092.003,49
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 IB5M11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 IBCR11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 IBOB11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 IGBR3
 </td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
--0,40
+<td class=pl>
+-0,34
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-416.304,62
+<td class=liquidez>
+415.383,93
 </td>
 </tr>
 <tr>
-<td>
+<td class=stock>
 IGTA3
 </td>
-<td>
-0,94
+<td class=dy>
+0,95
 </td>
-<td>
-11,57
-</td>
-<td>
-71,30%
-</td>
-<td>
-19,33%
-</td>
-<td>
-71.426.393,64
-</td>
-</tr>
-<tr>
-<td>
-IMAB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-IMBB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-INEP3
-</td>
-<td>
--
-</td>
-<td>
--0,94
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-2.486.565,82
-</td>
-</tr>
-<tr>
-<td>
-INTB3
-</td>
-<td>
-0,60
-</td>
-<td>
-19,22
-</td>
-<td>
-15,25%
-</td>
-<td>
--%
-</td>
-<td>
-60.653.881,51
-</td>
-</tr>
-<tr>
-<td>
-IRBR3
-</td>
-<td>
--
-</td>
-<td>
--6,11
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-68.085.250,08
-</td>
-</tr>
-<tr>
-<td>
-IRDM11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-IRIM11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-ISUS
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-ITSA3
-</td>
-<td>
-2,93
-</td>
-<td>
-8,06
-</td>
-<td>
-176,73%
-</td>
-<td>
-4,72%
-</td>
-<td>
-2.883.924,03
-</td>
-</tr>
-<tr>
-<td>
-ITUB3
-</td>
-<td>
-3,25
-</td>
-<td>
-7,61
-</td>
-<td>
-24,75%
-</td>
-<td>
-1,55%
-</td>
-<td>
-53.947.614,36
-</td>
-</tr>
-<tr>
-<td>
-IVVB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-JALL3
-</td>
-<td>
-1,54
-</td>
-<td>
-8,03
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-6.041.891,36
-</td>
-</tr>
-<tr>
-<td>
-JBSS3
-</td>
-<td>
-5,38
-</td>
-<td>
-6,94
-</td>
-<td>
-9,81%
-</td>
-<td>
-23,96%
-</td>
-<td>
-483.313.443,79
-</td>
-</tr>
-<tr>
-<td>
-JOPA3
-</td>
-<td>
-2,85
-</td>
-<td>
-12,85
-</td>
-<td>
-6,18%
-</td>
-<td>
-0,43%
-</td>
-<td>
-30.118,10
-</td>
-</tr>
-<tr>
-<td>
-JPPA11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-JPPC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-JPSA3
-</td>
-<td>
-0,43
-</td>
-<td>
-8,99
-</td>
-<td>
-69,37%
-</td>
-<td>
--%
-</td>
-<td>
-10.252.565,10
-</td>
-</tr>
-<tr>
-<td>
-JRDM11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-JSLG3
-</td>
-<td>
-1,81
-</td>
-<td>
-10,75
-</td>
-<td>
--%
-</td>
-<td>
-32,86%
-</td>
-<td>
-5.695.130,03
-</td>
-</tr>
-<tr>
-<td>
-JSRE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KEPL3
-</td>
-<td>
-4,65
-</td>
-<td>
-21,96
-</td>
-<td>
-13,67%
-</td>
-<td>
-51,50%
-</td>
-<td>
-11.486.703,41
-</td>
-</tr>
-<tr>
-<td>
-KEVE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KINP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KISU11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KLBN3
-</td>
-<td>
--
-</td>
-<td>
-9,58
-</td>
-<td>
-38,06%
-</td>
-<td>
--%
-</td>
-<td>
-889.530,79
-</td>
-</tr>
-<tr>
-<td>
-KNCR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KNHY11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KNIP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KNOX11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KNRE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KNRI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KNSC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-KRSA3
-</td>
-<td>
--
-</td>
-<td>
-134,34
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-1.837.967,54
-</td>
-</tr>
-<tr>
-<td>
-LAME3
-</td>
-<td>
-4,05
-</td>
-<td>
-18,47
-</td>
-<td>
-10,54%
-</td>
-<td>
-16,72%
-</td>
-<td>
-38.423.911,85
-</td>
-</tr>
-<tr>
-<td>
-LAND3
-</td>
-<td>
--
-</td>
-<td>
-42,45
-</td>
-<td>
-87,83%
-</td>
-<td>
--%
-</td>
-<td>
-1.336.002,05
-</td>
-</tr>
-<tr>
-<td>
-LASC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-LAVV3
-</td>
-<td>
-13,13
-</td>
-<td>
-6,04
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-11.189.085,03
-</td>
-</tr>
-<tr>
-<td>
-LCAM3
-</td>
-<td>
-1,81
-</td>
-<td>
-18,87
-</td>
-<td>
-29,72%
-</td>
-<td>
-97,68%
-</td>
-<td>
-71.245.940,74
-</td>
-</tr>
-<tr>
-<td>
-LEVE3
-</td>
-<td>
-2,59
-</td>
-<td>
-10,50
-</td>
-<td>
-21,37%
-</td>
-<td>
-16,89%
-</td>
-<td>
-29.381.857,18
-</td>
-</tr>
-<tr>
-<td>
-LGCP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-LIGT3
-</td>
-<td>
-4,20
-</td>
-<td>
-7,35
-</td>
-<td>
-17,95%
-</td>
-<td>
-69,63%
-</td>
-<td>
-36.909.455,64
-</td>
-</tr>
-<tr>
-<td>
-LIPR3
-</td>
-<td>
-3,19
-</td>
-<td>
-28,94
-</td>
-<td>
--%
-</td>
-<td>
-37,20%
-</td>
-<td>
-26.335,70
-</td>
-</tr>
-<tr>
-<td>
-LJQQ3
-</td>
-<td>
-0,68
-</td>
-<td>
-25,50
-</td>
-<td>
-13,91%
-</td>
-<td>
--%
-</td>
-<td>
-35.873.691,46
-</td>
-</tr>
-<tr>
-<td>
-LLIS3
-</td>
-<td>
--
-</td>
-<td>
--0,07
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-1.395.847,23
-</td>
-</tr>
-<tr>
-<td>
-LOGG3
-</td>
-<td>
-1,39
-</td>
-<td>
-7,57
-</td>
-<td>
-252,40%
-</td>
-<td>
-79,04%
-</td>
-<td>
-13.317.320,51
-</td>
-</tr>
-<tr>
-<td>
-LOGN3
-</td>
-<td>
--
-</td>
-<td>
-14,10
-</td>
-<td>
-27,74%
-</td>
-<td>
--%
-</td>
-<td>
-23.713.620,38
-</td>
-</tr>
-<tr>
-<td>
-LPSB3
-</td>
-<td>
--
-</td>
-<td>
-21,14
-</td>
-<td>
-38,93%
-</td>
-<td>
--%
-</td>
-<td>
-3.616.472,15
-</td>
-</tr>
-<tr>
-<td>
-LREN3
-</td>
-<td>
-1,28
-</td>
-<td>
-92,88
-</td>
-<td>
-15,04%
-</td>
-<td>
--11,56%
-</td>
-<td>
-346.957.296,31
-</td>
-</tr>
-<tr>
-<td>
-LUGG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-LUPA3
-</td>
-<td>
--
-</td>
-<td>
-2,39
-</td>
-<td>
-13,71%
-</td>
-<td>
--%
-</td>
-<td>
-15.999.366,26
-</td>
-</tr>
-<tr>
-<td>
-LVBI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-LVTC3
-</td>
-<td>
--
-</td>
-<td>
-20,80
-</td>
-<td>
-27,14%
-</td>
-<td>
--%
-</td>
-<td>
-7.952.137,28
-</td>
-</tr>
-<tr>
-<td>
-LWSA3
-</td>
-<td>
-0,16
-</td>
-<td>
-1.004,97
-</td>
-<td>
-17,62%
-</td>
-<td>
--%
-</td>
-<td>
-142.349.981,72
-</td>
-</tr>
-<tr>
-<td>
-MALL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MATB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MATD3
-</td>
-<td>
--
-</td>
-<td>
-54,72
-</td>
-<td>
-26,62%
-</td>
-<td>
--%
-</td>
-<td>
-9.833.233,28
-</td>
-</tr>
-<tr>
-<td>
-MATV11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MAXR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MBLY3
-</td>
-<td>
--
-</td>
-<td>
--10,44
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-3.664.222,90
-</td>
-</tr>
-<tr>
-<td>
-MCCI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MCHY11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MDIA3
-</td>
-<td>
-1,99
-</td>
-<td>
-16,38
-</td>
-<td>
-10,28%
-</td>
-<td>
-0,90%
-</td>
-<td>
-33.307.971,90
-</td>
-</tr>
-<tr>
-<td>
-MDNE3
-</td>
-<td>
--
-</td>
-<td>
-7,43
-</td>
-<td>
-10,10%
-</td>
-<td>
-11,74%
-</td>
-<td>
-2.490.998,69
-</td>
-</tr>
-<tr>
-<td>
-MEAL3
-</td>
-<td>
--
-</td>
-<td>
--11,00
-</td>
-<td>
-2,17%
-</td>
-<td>
--%
-</td>
-<td>
-11.214.748,51
-</td>
-</tr>
-<tr>
-<td>
-MELK3
-</td>
-<td>
-0,16
-</td>
-<td>
-18,18
-</td>
-<td>
-8,51%
-</td>
-<td>
--%
-</td>
-<td>
-7.589.643,21
-</td>
-</tr>
-<tr>
-<td>
-MGCR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MGHT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MGLG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MGLU3
-</td>
-<td>
-0,36
-</td>
-<td>
-99,30
-</td>
-<td>
-6,05%
-</td>
-<td>
--%
-</td>
-<td>
-601.869.634,87
-</td>
-</tr>
-<tr>
-<td>
-MILL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MILS3
-</td>
-<td>
-1,97
-</td>
-<td>
-37,28
-</td>
-<td>
-35,42%
-</td>
-<td>
--%
-</td>
-<td>
-8.918.940,10
-</td>
-</tr>
-<tr>
-<td>
-MINT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MLAS3
-</td>
-<td>
--
-</td>
-<td>
-11,39
-</td>
-<td>
-15,47%
-</td>
-<td>
--%
-</td>
-<td>
-20.961.240,95
-</td>
-</tr>
-<tr>
-<td>
-MNDL3
-</td>
-<td>
--
-</td>
-<td>
-4,07
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-72.287,52
-</td>
-</tr>
-<tr>
-<td>
-MNPR3
-</td>
-<td>
--
-</td>
-<td>
-17,60
-</td>
-<td>
-16,08%
-</td>
-<td>
--%
-</td>
-<td>
-144.093,41
-</td>
-</tr>
-<tr>
-<td>
-MOAR3
-</td>
-<td>
-3,30
-</td>
-<td>
-8,24
-</td>
-<td>
--%
-</td>
-<td>
-46,63%
-</td>
-<td>
-1.103.662,92
-</td>
-</tr>
-<tr>
-<td>
-MODL3
-</td>
-<td>
-0,89
-</td>
-<td>
-46,78
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-113.593,95
-</td>
-</tr>
-<tr>
-<td>
-MORE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-MOSI3
-</td>
-<td>
-0,01
-</td>
-<td>
-34,81
-</td>
-<td>
-17,54%
-</td>
-<td>
--%
-</td>
-<td>
-22.602.944,05
-</td>
-</tr>
-<tr>
-<td>
-MOVI3
-</td>
-<td>
-2,50
-</td>
-<td>
-11,37
-</td>
-<td>
-31,65%
-</td>
-<td>
-49,71%
-</td>
-<td>
-45.483.742,18
-</td>
-</tr>
-<tr>
-<td>
-MRVE3
-</td>
-<td>
-4,46
-</td>
-<td>
-7,64
-</td>
-<td>
-14,01%
-</td>
-<td>
-4,31%
-</td>
-<td>
-82.592.091,95
-</td>
-</tr>
-<tr>
-<td>
-MSPA3
-</td>
-<td>
--
-</td>
-<td>
--8,25
-</td>
-<td>
--23,03%
-</td>
-<td>
--%
-</td>
-<td>
-4.850,00
-</td>
-</tr>
-<tr>
-<td>
-MTRE3
-</td>
-<td>
-6,70
-</td>
-<td>
-13,25
-</td>
-<td>
-11,37%
-</td>
-<td>
--%
-</td>
-<td>
-6.727.299,08
-</td>
-</tr>
-<tr>
-<td>
-MULT3
-</td>
-<td>
-2,52
-</td>
-<td>
-28,13
-</td>
-<td>
-58,57%
-</td>
-<td>
-1,30%
-</td>
-<td>
-148.577.657,87
-</td>
-</tr>
-<tr>
-<td>
-MYPK3
-</td>
-<td>
--
-</td>
-<td>
-23,55
-</td>
-<td>
-11,28%
-</td>
-<td>
-18,98%
-</td>
-<td>
-32.658.182,23
-</td>
-</tr>
-<tr>
-<td>
-NASD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-NAVT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-NEOE3
-</td>
-<td>
-3,34
-</td>
-<td>
-4,46
-</td>
-<td>
--%
-</td>
-<td>
-69,16%
-</td>
-<td>
-43.917.213,64
-</td>
-</tr>
-<tr>
-<td>
-NEWL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-NEWU11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-NGRD3
-</td>
-<td>
-0,32
-</td>
-<td>
-40,61
-</td>
-<td>
-35,47%
-</td>
-<td>
--%
-</td>
-<td>
-9.458.409,23
-</td>
-</tr>
-<tr>
-<td>
-NINJ3
-</td>
-<td>
--
-</td>
-<td>
--19,06
-</td>
-<td>
--45,66%
-</td>
-<td>
--%
-</td>
-<td>
-1.565.368,90
-</td>
-</tr>
-<tr>
-<td>
-NORD3
-</td>
-<td>
--
-</td>
-<td>
--92,73
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-57.168,82
-</td>
-</tr>
-<tr>
-<td>
-NPAR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-NSLU11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-NTCO3
-</td>
-<td>
--
-</td>
-<td>
-85,45
-</td>
-<td>
-9,87%
-</td>
-<td>
-4,46%
-</td>
-<td>
-311.667.968,38
-</td>
-</tr>
-<tr>
-<td>
-NVHO11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-ODPV3
-</td>
-<td>
-4,61
-</td>
-<td>
-18,63
-</td>
-<td>
-489,28%
-</td>
-<td>
-11,26%
-</td>
-<td>
-19.386.753,08
-</td>
-</tr>
-<tr>
-<td>
-OIBR3
-</td>
-<td>
--
-</td>
-<td>
--1,75
-</td>
-<td>
-34,72%
-</td>
-<td>
--%
-</td>
-<td>
-79.669.520,26
-</td>
-</tr>
-<tr>
-<td>
-OMGE3
-</td>
-<td>
--
-</td>
-<td>
--60,26
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-54.204.811,85
-</td>
-</tr>
-<tr>
-<td>
-ONCO3
-</td>
-<td>
--
-</td>
-<td>
--22,06
-</td>
-<td>
-2,27%
-</td>
-<td>
--%
-</td>
-<td>
-17.907.068,97
-</td>
-</tr>
-<tr>
-<td>
-OPCT3
-</td>
-<td>
--
-</td>
-<td>
--23,84
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-7.708.856,00
-</td>
-</tr>
-<tr>
-<td>
-ORPD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-ORVR3
-</td>
-<td>
--
-</td>
-<td>
--28,86
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-16.093.500,26
-</td>
-</tr>
-<tr>
-<td>
-OSXB3
-</td>
-<td>
--
-</td>
-<td>
--0,02
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-51.289,79
-</td>
-</tr>
-<tr>
-<td>
-OUJP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-OULG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-OURE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PABY11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PARD3
-</td>
-<td>
-1,23
-</td>
-<td>
-12,83
-</td>
-<td>
-24,74%
-</td>
-<td>
-21,91%
-</td>
-<td>
-8.725.371,28
-</td>
-</tr>
-<tr>
-<td>
-PATC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PATI3
-</td>
-<td>
-3,23
-</td>
-<td>
-6,90
-</td>
-<td>
--%
-</td>
-<td>
-87,28%
-</td>
-<td>
-28.290,86
-</td>
-</tr>
-<tr>
-<td>
-PATL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PCAR3
-</td>
-<td>
-8,43
-</td>
-<td>
-3,33
-</td>
-<td>
--%
-</td>
-<td>
-51,14%
-</td>
-<td>
-111.191.460,49
-</td>
-</tr>
-<tr>
-<td>
-PDGR3
-</td>
-<td>
--
-</td>
-<td>
--0,21
-</td>
-<td>
--123,33%
-</td>
-<td>
--%
-</td>
-<td>
-7.961.291,26
-</td>
-</tr>
-<tr>
-<td>
-PDTC3
-</td>
-<td>
--
-</td>
-<td>
-13,95
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-1.510.711,21
-</td>
-</tr>
-<tr>
-<td>
-PEAB3
-</td>
-<td>
-49,62
-</td>
-<td>
-1,53
-</td>
-<td>
-3.094,21%
-</td>
-<td>
-81,97%
-</td>
-<td>
-28.857,89
-</td>
-</tr>
-<tr>
-<td>
-PEMA11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PETR3
-</td>
-<td>
-8,20
-</td>
-<td>
-3,74
-</td>
-<td>
-67,21%
-</td>
-<td>
--%
-</td>
-<td>
-530.637.710,85
-</td>
-</tr>
-<tr>
-<td>
-PETZ3
-</td>
-<td>
-0,28
-</td>
-<td>
-118,93
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-138.617.019,85
-</td>
-</tr>
-<tr>
-<td>
-PGMN3
-</td>
-<td>
--
-</td>
-<td>
-22,98
-</td>
-<td>
-8,98%
-</td>
-<td>
-43,95%
-</td>
-<td>
-14.956.227,21
-</td>
-</tr>
-<tr>
-<td>
-PIBB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PICE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PLAS3
-</td>
-<td>
--
-</td>
-<td>
--1,37
-</td>
-<td>
--3,75%
-</td>
-<td>
--%
-</td>
-<td>
-17.386,94
-</td>
-</tr>
-<tr>
-<td>
-PLCR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PLOG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PLPL3
-</td>
-<td>
-6,22
-</td>
-<td>
-4,28
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-5.018.369,00
-</td>
-</tr>
-<tr>
-<td>
-PLRI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PMAM3
-</td>
-<td>
--
-</td>
-<td>
--2,09
-</td>
-<td>
--0,78%
-</td>
-<td>
--%
-</td>
-<td>
-6.940.739,67
-</td>
-</tr>
-<tr>
-<td>
-PMSP12BL
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PNVL3
-</td>
-<td>
-1,31
-</td>
-<td>
-25,61
-</td>
-<td>
-7,92%
-</td>
-<td>
-11,73%
-</td>
-<td>
-16.352.196,54
-</td>
-</tr>
-<tr>
-<td>
-POMO3
-</td>
-<td>
-3,75
-</td>
-<td>
-8,29
-</td>
-<td>
-8,32%
-</td>
-<td>
-25,82%
-</td>
-<td>
-799.741,05
-</td>
-</tr>
-<tr>
-<td>
-PORD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PORT3
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-POSI3
-</td>
-<td>
-3,64
-</td>
-<td>
-4,39
-</td>
-<td>
-17,16%
-</td>
-<td>
--%
-</td>
-<td>
-68.571.116,15
-</td>
-</tr>
-<tr>
-<td>
-POWE3
-</td>
-<td>
-0,42
-</td>
-<td>
-60,43
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-5.771.342,44
-</td>
-</tr>
-<tr>
-<td>
-PPEI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PPLA11
-</td>
-<td>
--
-</td>
-<td>
--433,33
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-8.033,51
-</td>
-</tr>
-<tr>
-<td>
-PQAG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PQDP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PRIO3
-</td>
-<td>
--
-</td>
-<td>
-25,80
-</td>
-<td>
-76,04%
-</td>
-<td>
-50,87%
-</td>
-<td>
-600.375.738,69
-</td>
-</tr>
-<tr>
-<td>
-PRNR3
-</td>
-<td>
--
-</td>
-<td>
-17,56
-</td>
-<td>
-9,73%
-</td>
-<td>
--%
-</td>
-<td>
-994.534,92
-</td>
-</tr>
-<tr>
-<td>
-PRSN11B
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PRSV11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PSSA3
-</td>
-<td>
-12,17
-</td>
-<td>
-8,75
-</td>
-<td>
-9,95%
-</td>
-<td>
-11,91%
-</td>
-<td>
-77.148.616,10
-</td>
-</tr>
-<tr>
-<td>
-PSVM11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-PTBL3
-</td>
-<td>
-5,49
-</td>
-<td>
+<td class=pl>
 11,47
 </td>
-<td>
-16,86%
+<td class=mebitda>
+71,30%
 </td>
-<td>
-20,90%
+<td class=crescimento>
+19,33%
 </td>
-<td>
-21.187.867,85
+<td class=liquidez>
+71.093.354,15
 </td>
 </tr>
 <tr>
-<td>
-PTNT3
+<td class=stock>
+IMAB11
 </td>
-<td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+IMBB11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+INEP3
+</td>
+<td class=dy>
 -
 </td>
-<td>
-16,40
+<td class=pl>
+-0,93
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
-39,63%
+<td class=crescimento>
+-%
 </td>
-<td>
-983.603,41
-</td>
-</tr>
-<tr>
-<td>
-PVBI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
+<td class=liquidez>
+2.446.152,32
 </td>
 </tr>
 <tr>
-<td>
-QAGR11
+<td class=stock>
+INTB3
 </td>
-<td>
-
+<td class=dy>
+0,63
 </td>
-<td>
-
+<td class=pl>
+18,25
 </td>
-<td>
-
+<td class=mebitda>
+15,25%
 </td>
-<td>
-
+<td class=crescimento>
+-%
 </td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-QAMI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
+<td class=liquidez>
+63.308.841,95
 </td>
 </tr>
 <tr>
-<td>
-QBTC11
+<td class=stock>
+IRBR3
 </td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-QETH11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-QIRI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-QUAL3
-</td>
-<td>
-11,97
-</td>
-<td>
-12,98
-</td>
-<td>
-46,27%
-</td>
-<td>
-12,01%
-</td>
-<td>
-52.684.677,67
-</td>
-</tr>
-<tr>
-<td>
-RADL3
-</td>
-<td>
-0,37
-</td>
-<td>
-51,06
-</td>
-<td>
-11,51%
-</td>
-<td>
-16,93%
-</td>
-<td>
-152.593.957,26
-</td>
-</tr>
-<tr>
-<td>
-RAIL3
-</td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-46,23
+<td class=pl>
+-5,92
 </td>
-<td>
-51,27%
-</td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
-210.003.471,46
-</td>
-</tr>
-<tr>
-<td>
-RAIZ4
-</td>
-<td>
-0,24
-</td>
-<td>
-92,21
-</td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
+<td class=liquidez>
+68.447.797,83
+</td>
+</tr>
+<tr>
+<td class=stock>
+IRDM11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+IRIM11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ISUS
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ITSA3
+</td>
+<td class=dy>
+3,05
+</td>
+<td class=pl>
+7,76
+</td>
+<td class=mebitda>
+176,73%
+</td>
+<td class=crescimento>
+4,72%
+</td>
+<td class=liquidez>
+2.813.252,90
+</td>
+</tr>
+<tr>
+<td class=stock>
+ITUB3
+</td>
+<td class=dy>
+3,35
+</td>
+<td class=pl>
+7,41
+</td>
+<td class=mebitda>
+24,75%
+</td>
+<td class=crescimento>
+1,55%
+</td>
+<td class=liquidez>
+52.180.372,56
+</td>
+</tr>
+<tr>
+<td class=stock>
+IVVB11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+JALL3
+</td>
+<td class=dy>
+1,59
+</td>
+<td class=pl>
+7,75
+</td>
+<td class=mebitda>
 -%
 </td>
-<td>
-71.162.346,67
-</td>
-</tr>
-<tr>
-<td>
-RANI3
-</td>
-<td>
-4,22
-</td>
-<td>
-9,13
-</td>
-<td>
-28,20%
-</td>
-<td>
-226,57%
-</td>
-<td>
-13.424.934,85
-</td>
-</tr>
-<tr>
-<td>
-RAPT3
-</td>
-<td>
-4,99
-</td>
-<td>
-5,21
-</td>
-<td>
-21,91%
-</td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-281.693,18
+<td class=liquidez>
+6.031.371,88
 </td>
 </tr>
 <tr>
-<td>
-RBCO11
+<td class=stock>
+JBSS3
 </td>
-<td>
-
+<td class=dy>
+5,16
 </td>
-<td>
-
+<td class=pl>
+7,23
 </td>
-<td>
-
+<td class=mebitda>
+9,81%
 </td>
-<td>
-
+<td class=crescimento>
+23,96%
 </td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBDS11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
+<td class=liquidez>
+479.237.953,61
 </td>
 </tr>
 <tr>
-<td>
-RBED11
+<td class=stock>
+JOPA3
 </td>
-<td>
-
+<td class=dy>
+3,06
 </td>
-<td>
-
+<td class=pl>
+12,00
 </td>
-<td>
-
+<td class=mebitda>
+6,18%
 </td>
-<td>
-
+<td class=crescimento>
+0,43%
 </td>
-<td>
-
+<td class=liquidez>
+35.534,64
 </td>
 </tr>
 <tr>
-<td>
-RBGS11
+<td class=stock>
+JPPA11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
-RBHG11
+<td class=stock>
+JPPC11
 </td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBHY11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
-RBIR11
+<td class=stock>
+JPSA3
 </td>
-<td>
-
+<td class=dy>
+0,44
 </td>
-<td>
-
+<td class=pl>
+8,71
 </td>
-<td>
-
+<td class=mebitda>
+69,37%
 </td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBLG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBRD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBRL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBRP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBRR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBRS11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBRY11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBVA11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RBVO11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RCRB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RCSL3
-</td>
-<td>
--
-</td>
-<td>
-475,22
-</td>
-<td>
-6,86%
-</td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-24.126.659,90
+<td class=liquidez>
+10.316.783,05
 </td>
 </tr>
 <tr>
-<td>
-RDNI3
+<td class=stock>
+JRDM11
 </td>
-<td>
-0,09
-</td>
-<td>
-25,95
-</td>
-<td>
-5,47%
-</td>
-<td>
-22,75%
-</td>
-<td>
-312.803,28
-</td>
-</tr>
-<tr>
-<td>
-RDOR3
-</td>
-<td>
-2,25
-</td>
-<td>
-84,95
-</td>
-<td>
-24,50%
-</td>
-<td>
--%
-</td>
-<td>
-249.889.987,41
-</td>
-</tr>
-<tr>
-<td>
-RDPD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RECR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RECT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RECV3
-</td>
-<td>
--
-</td>
-<td>
-55,95
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-18.247.054,33
-</td>
-</tr>
-<tr>
-<td>
-RECX11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-REDE3
-</td>
-<td>
-11,86
-</td>
-<td>
-9,71
-</td>
-<td>
-25,71%
-</td>
-<td>
-28,90%
-</td>
-<td>
-11.934,03
-</td>
-</tr>
-<tr>
-<td>
-REIT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RELG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RENT3
-</td>
-<td>
-0,86
-</td>
-<td>
-21,21
-</td>
-<td>
-26,02%
-</td>
-<td>
-32,73%
-</td>
-<td>
-366.586.831,97
-</td>
-</tr>
-<tr>
-<td>
-REVE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RMAI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RNDP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RNEW3
-</td>
-<td>
--
-</td>
-<td>
-7,59
-</td>
-<td>
--51,18%
-</td>
-<td>
--18,42%
-</td>
-<td>
-227.695,62
-</td>
-</tr>
-<tr>
-<td>
-RNGO11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-ROMI3
-</td>
-<td>
-8,87
-</td>
-<td>
-5,72
-</td>
-<td>
-18,54%
-</td>
-<td>
-106,61%
-</td>
-<td>
-10.502.117,67
-</td>
-</tr>
-<tr>
-<td>
-RPAD3
-</td>
-<td>
--
-</td>
-<td>
-26,55
-</td>
-<td>
--%
-</td>
-<td>
--16,37%
-</td>
-<td>
-23.352,95
-</td>
-</tr>
-<tr>
-<td>
-RPMG3
-</td>
-<td>
--
-</td>
-<td>
--0,72
-</td>
-<td>
--15,41%
-</td>
-<td>
--%
-</td>
-<td>
-337.130,26
-</td>
-</tr>
-<tr>
-<td>
-RRCI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RRRP3
-</td>
-<td>
--
-</td>
-<td>
--23,13
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-84.798.358,31
-</td>
-</tr>
-<tr>
-<td>
-RSID3
-</td>
-<td>
--
-</td>
-<td>
-0,76
-</td>
-<td>
--273,38%
-</td>
-<td>
--%
-</td>
-<td>
-956.576,51
-</td>
-</tr>
-<tr>
-<td>
-RSPD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RVBI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RZAG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RZAK11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-RZTR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SADI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SAET11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SANB3
-</td>
-<td>
-6,68
-</td>
-<td>
-9,93
-</td>
-<td>
--%
-</td>
-<td>
-4,82%
-</td>
-<td>
-587.778,00
-</td>
-</tr>
-<tr>
-<td>
-SAPR3
-</td>
-<td>
-4,94
-</td>
-<td>
-5,45
-</td>
-<td>
-41,71%
-</td>
-<td>
-18,72%
-</td>
-<td>
-2.683.622,08
-</td>
-</tr>
-<tr>
-<td>
-SARE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SBSP3
-</td>
-<td>
-1,10
-</td>
-<td>
-9,83
-</td>
-<td>
-34,69%
-</td>
-<td>
-36,30%
-</td>
-<td>
-105.677.607,54
-</td>
-</tr>
-<tr>
-<td>
-SCAR3
-</td>
-<td>
-1,01
-</td>
-<td>
-22,39
-</td>
-<td>
-77,27%
-</td>
-<td>
--10,46%
-</td>
-<td>
-355.887,62
-</td>
-</tr>
-<tr>
-<td>
-SDIL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SEER3
-</td>
-<td>
-3,26
-</td>
-<td>
-9,66
-</td>
-<td>
-35,76%
-</td>
-<td>
--1,50%
-</td>
-<td>
-9.639.390,72
-</td>
-</tr>
-<tr>
-<td>
-SEQL3
-</td>
-<td>
--
-</td>
-<td>
-205,33
-</td>
-<td>
-11,47%
-</td>
-<td>
--%
-</td>
-<td>
-28.439.434,95
-</td>
-</tr>
-<tr>
-<td>
-SEQR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SGPS3
-</td>
-<td>
--
-</td>
-<td>
--3,03
-</td>
-<td>
-11,05%
-</td>
-<td>
--%
-</td>
-<td>
-770.960,56
-</td>
-</tr>
-<tr>
-<td>
-SHOT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SHOW3
-</td>
-<td>
--
-</td>
-<td>
--2,77
-</td>
-<td>
--665,98%
-</td>
-<td>
--%
-</td>
-<td>
-3.443.633,44
-</td>
-</tr>
-<tr>
-<td>
-SHPH11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SLCE3
-</td>
-<td>
-2,89
-</td>
-<td>
-9,15
-</td>
-<td>
--%
-</td>
-<td>
-49,70%
-</td>
-<td>
-68.851.419,90
-</td>
-</tr>
-<tr>
-<td>
-SLED3
-</td>
-<td>
--
-</td>
-<td>
--0,13
-</td>
-<td>
--188,96%
-</td>
-<td>
--%
-</td>
-<td>
-99.329,33
-</td>
-</tr>
-<tr>
-<td>
-SMAB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SMAC
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SMAC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SMAL
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SMTO3
-</td>
-<td>
-3,31
-</td>
-<td>
-12,97
-</td>
-<td>
-69,99%
-</td>
-<td>
-37,08%
-</td>
-<td>
-47.933.464,38
-</td>
-</tr>
-<tr>
-<td>
-SNCI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SNSY3
-</td>
-<td>
--
-</td>
-<td>
--0,82
-</td>
-<td>
-0,12%
-</td>
-<td>
--%
-</td>
-<td>
-20.132,15
-</td>
-</tr>
-<tr>
-<td>
-SOJA3
-</td>
-<td>
--
-</td>
-<td>
-22,90
-</td>
-<td>
-17,93%
-</td>
-<td>
--%
-</td>
-<td>
-3.719.264,05
-</td>
-</tr>
-<tr>
-<td>
-SOMA3
-</td>
-<td>
--
-</td>
-<td>
-122,84
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-85.189.745,67
-</td>
-</tr>
-<tr>
-<td>
-SPTW11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SPXB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SPXI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-SQIA3
-</td>
-<td>
-0,11
-</td>
-<td>
-159,51
-</td>
-<td>
-19,23%
-</td>
-<td>
--0,54%
-</td>
-<td>
-28.485.856,10
-</td>
-</tr>
-<tr>
-<td>
-STBP3
-</td>
-<td>
--
-</td>
-<td>
-50,21
-</td>
-<td>
-32,76%
-</td>
-<td>
--%
-</td>
-<td>
-30.983.772,36
-</td>
-</tr>
-<tr>
-<td>
-SULA3
-</td>
-<td>
-3,93
-</td>
-<td>
-6,23
-</td>
-<td>
-10,71%
-</td>
-<td>
-20,34%
-</td>
-<td>
-198.190,56
-</td>
-</tr>
-<tr>
-<td>
-SUZB3
-</td>
-<td>
--
-</td>
-<td>
-5,47
-</td>
-<td>
-58,82%
-</td>
-<td>
--%
-</td>
-<td>
-496.030.134,41
-</td>
-</tr>
-<tr>
-<td>
-SYNE3
-</td>
-<td>
-7,86
-</td>
-<td>
-39,31
-</td>
-<td>
-53,02%
-</td>
-<td>
-15,35%
-</td>
-<td>
-7.049.285,97
-</td>
-</tr>
-<tr>
-<td>
-TAEE3
-</td>
-<td>
-12,03
-</td>
-<td>
-4,75
-</td>
-<td>
-73,96%
-</td>
-<td>
-24,45%
-</td>
-<td>
-936.615,95
-</td>
-</tr>
-<tr>
-<td>
-TASA3
-</td>
-<td>
--
-</td>
-<td>
-4,11
-</td>
-<td>
-31,86%
-</td>
-<td>
--%
-</td>
-<td>
-1.080.336,85
-</td>
-</tr>
-<tr>
-<td>
-TCIN11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TCNO3
-</td>
-<td>
--
-</td>
-<td>
--20,15
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-167.077,59
-</td>
-</tr>
-<tr>
-<td>
-TCSA3
-</td>
-<td>
--
-</td>
-<td>
--1,99
-</td>
-<td>
--81,59%
-</td>
-<td>
--%
-</td>
-<td>
-5.055.713,51
-</td>
-</tr>
-<tr>
-<td>
-TECB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TECK11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TECN3
-</td>
-<td>
--
-</td>
-<td>
-24,55
-</td>
-<td>
--%
-</td>
-<td>
--14,42%
-</td>
-<td>
-16.388.487,72
-</td>
-</tr>
-<tr>
-<td>
-TELB3
-</td>
-<td>
--
-</td>
-<td>
--29,59
-</td>
-<td>
-67,12%
-</td>
-<td>
--%
-</td>
-<td>
-88.120,03
-</td>
-</tr>
-<tr>
-<td>
-TEND3
-</td>
-<td>
-1,97
-</td>
-<td>
-8,62
-</td>
-<td>
-12,43%
-</td>
-<td>
-47,69%
-</td>
-<td>
-28.619.936,87
-</td>
-</tr>
-<tr>
-<td>
-TEPP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TEQI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TGAR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TGMA3
-</td>
-<td>
-5,40
-</td>
-<td>
-10,27
-</td>
-<td>
-15,19%
-</td>
-<td>
-59,70%
-</td>
-<td>
-7.804.905,00
-</td>
-</tr>
-<tr>
-<td>
-TIMS3
-</td>
-<td>
-3,89
-</td>
-<td>
-9,27
-</td>
-<td>
-48,13%
-</td>
-<td>
-7,35%
-</td>
-<td>
-77.527.580,49
-</td>
-</tr>
-<tr>
-<td>
-TORD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TOTS3
-</td>
-<td>
-0,84
-</td>
-<td>
-61,21
-</td>
-<td>
-24,88%
-</td>
-<td>
-11,35%
-</td>
-<td>
-150.836.805,87
-</td>
-</tr>
-<tr>
-<td>
-TOUR11
-</td>
-<td>
+<td class=dy>
 
 </td>
-<td>
+<td class=pl>
 
 </td>
-<td>
+<td class=mebitda>
 
 </td>
-<td>
+<td class=crescimento>
 
 </td>
-<td>
+<td class=liquidez>
 
 </td>
 </tr>
 <tr>
-<td>
-TPIS3
+<td class=stock>
+JSLG3
 </td>
-<td>
+<td class=dy>
 1,86
 </td>
-<td>
-2,61
+<td class=pl>
+10,46
 </td>
-<td>
-61,30%
+<td class=mebitda>
+-%
 </td>
-<td>
-17,13%
+<td class=crescimento>
+32,86%
 </td>
-<td>
-10.537.763,18
+<td class=liquidez>
+5.639.747,56
 </td>
 </tr>
 <tr>
-<td>
-TRAD3
+<td class=stock>
+JSRE11
 </td>
-<td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KEPL3
+</td>
+<td class=dy>
+4,74
+</td>
+<td class=pl>
+21,54
+</td>
+<td class=mebitda>
+13,67%
+</td>
+<td class=crescimento>
+51,50%
+</td>
+<td class=liquidez>
+11.409.978,44
+</td>
+</tr>
+<tr>
+<td class=stock>
+KEVE11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KINP11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KISU11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KLBN3
+</td>
+<td class=dy>
+1,31
+</td>
+<td class=pl>
+9,46
+</td>
+<td class=mebitda>
+38,06%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+880.700,80
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNCR11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNHY11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNIP11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNOX11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNRE11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNRI11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KNSC11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+KRSA3
+</td>
+<td class=dy>
 -
 </td>
-<td>
-412,13
+<td class=pl>
+130,21
 </td>
-<td>
-13,61%
-</td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
-17.289.412,00
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+1.830.383,10
 </td>
 </tr>
 <tr>
-<td>
-TRIS3
+<td class=stock>
+LAME3
 </td>
-<td>
-3,88
+<td class=dy>
+4,37
 </td>
-<td>
-6,69
+<td class=pl>
+17,11
 </td>
-<td>
-22,70%
+<td class=mebitda>
+10,54%
 </td>
-<td>
-55,55%
+<td class=crescimento>
+16,72%
 </td>
-<td>
-12.323.405,97
-</td>
-</tr>
-<tr>
-<td>
-TRNT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
+<td class=liquidez>
+37.720.261,10
 </td>
 </tr>
 <tr>
-<td>
-TRPL3
+<td class=stock>
+LAND3
 </td>
-<td>
-10,85
-</td>
-<td>
-5,97
-</td>
-<td>
-101,62%
-</td>
-<td>
-47,51%
-</td>
-<td>
-55.153,59
-</td>
-</tr>
-<tr>
-<td>
-TRXB11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TSER11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-TTEN3
-</td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-21,24
+<td class=pl>
+42,12
 </td>
-<td>
-8,55%
+<td class=mebitda>
+87,83%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-10.689.069,67
+<td class=liquidez>
+1.316.502,93
 </td>
 </tr>
 <tr>
-<td>
-TUPY3
+<td class=stock>
+LASC11
 </td>
-<td>
-0,61
+<td class=dy>
+
 </td>
-<td>
-14,05
+<td class=pl>
+
 </td>
-<td>
-13,79%
+<td class=mebitda>
+
 </td>
-<td>
-0,94%
+<td class=crescimento>
+
 </td>
-<td>
-18.790.260,21
+<td class=liquidez>
+
 </td>
 </tr>
 <tr>
-<td>
-TXRX3
+<td class=stock>
+LATR11B
 </td>
-<td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+LAVV3
+</td>
+<td class=dy>
+13,79
+</td>
+<td class=pl>
+5,74
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+10.936.698,00
+</td>
+</tr>
+<tr>
+<td class=stock>
+LCAM3
+</td>
+<td class=dy>
+1,91
+</td>
+<td class=pl>
+17,98
+</td>
+<td class=mebitda>
+29,72%
+</td>
+<td class=crescimento>
+97,68%
+</td>
+<td class=liquidez>
+70.594.603,56
+</td>
+</tr>
+<tr>
+<td class=stock>
+LEVE3
+</td>
+<td class=dy>
+2,72
+</td>
+<td class=pl>
+10,00
+</td>
+<td class=mebitda>
+21,37%
+</td>
+<td class=crescimento>
+16,89%
+</td>
+<td class=liquidez>
+29.419.771,41
+</td>
+</tr>
+<tr>
+<td class=stock>
+LGCP11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+LIGT3
+</td>
+<td class=dy>
+4,51
+</td>
+<td class=pl>
+6,85
+</td>
+<td class=mebitda>
+17,95%
+</td>
+<td class=crescimento>
+69,63%
+</td>
+<td class=liquidez>
+36.564.334,59
+</td>
+</tr>
+<tr>
+<td class=stock>
+LIPR3
+</td>
+<td class=dy>
+3,19
+</td>
+<td class=pl>
+28,90
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+37,20%
+</td>
+<td class=liquidez>
+24.517,91
+</td>
+</tr>
+<tr>
+<td class=stock>
+LJQQ3
+</td>
+<td class=dy>
+0,74
+</td>
+<td class=pl>
+23,47
+</td>
+<td class=mebitda>
+13,91%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+36.124.517,39
+</td>
+</tr>
+<tr>
+<td class=stock>
+LLIS3
+</td>
+<td class=dy>
 -
 </td>
-<td>
--13,92
+<td class=pl>
+-0,07
 </td>
-<td>
+<td class=mebitda>
 -%
 </td>
-<td>
+<td class=crescimento>
 -%
 </td>
-<td>
-6.388,20
+<td class=liquidez>
+1.392.129,54
 </td>
 </tr>
 <tr>
-<td>
-UCAS3
+<td class=stock>
+LOGG3
 </td>
-<td>
-5,32
+<td class=dy>
+1,38
 </td>
-<td>
-11,18
+<td class=pl>
+7,61
 </td>
-<td>
-21,14%
+<td class=mebitda>
+252,40%
 </td>
-<td>
-12,58%
+<td class=crescimento>
+79,04%
 </td>
-<td>
-201.534,90
-</td>
-</tr>
-<tr>
-<td>
-UGPA3
-</td>
-<td>
-4,66
-</td>
-<td>
-19,33
-</td>
-<td>
-2,82%
-</td>
-<td>
--12,02%
-</td>
-<td>
-126.642.316,97
+<td class=liquidez>
+13.780.087,93
 </td>
 </tr>
 <tr>
-<td>
-UNIP3
+<td class=stock>
+LOGN3
 </td>
-<td>
-8,90
-</td>
-<td>
-8,04
-</td>
-<td>
-35,61%
-</td>
-<td>
-61,42%
-</td>
-<td>
-3.219.386,79
-</td>
-</tr>
-<tr>
-<td>
-URPR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-USIM3
-</td>
-<td>
-8,03
-</td>
-<td>
-2,60
-</td>
-<td>
-40,23%
-</td>
-<td>
--%
-</td>
-<td>
-7.176.715,00
-</td>
-</tr>
-<tr>
-<td>
-USTK11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VALE3
-</td>
-<td>
-19,68
-</td>
-<td>
-4,19
-</td>
-<td>
-49,81%
-</td>
-<td>
--%
-</td>
-<td>
-2.557.744.116,05
-</td>
-</tr>
-<tr>
-<td>
-VAMO3
-</td>
-<td>
+<td class=dy>
 -
 </td>
-<td>
-43,44
+<td class=pl>
+14,02
 </td>
-<td>
+<td class=mebitda>
+27,74%
+</td>
+<td class=crescimento>
 -%
 </td>
-<td>
--%
-</td>
-<td>
-55.410.988,03
-</td>
-</tr>
-<tr>
-<td>
-VCJR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VCRR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VGIP11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VGIR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VIGT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VIIA3
-</td>
-<td>
--
-</td>
-<td>
-8,55
-</td>
-<td>
-7,17%
-</td>
-<td>
-145,09%
-</td>
-<td>
-324.025.650,03
-</td>
-</tr>
-<tr>
-<td>
-VILG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VINO11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VISC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VITT3
-</td>
-<td>
--
-</td>
-<td>
-64,64
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-2.174.495,71
-</td>
-</tr>
-<tr>
-<td>
-VIUR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VIVA3
-</td>
-<td>
-0,58
-</td>
-<td>
-29,91
-</td>
-<td>
-29,05%
-</td>
-<td>
--%
-</td>
-<td>
-31.870.761,05
-</td>
-</tr>
-<tr>
-<td>
-VIVR3
-</td>
-<td>
--
-</td>
-<td>
--2,01
-</td>
-<td>
--175,61%
-</td>
-<td>
--%
-</td>
-<td>
-45.686.013,69
-</td>
-</tr>
-<tr>
-<td>
-VIVT3
-</td>
-<td>
-7,15
-</td>
-<td>
-15,40
-</td>
-<td>
-43,34%
-</td>
-<td>
-7,44%
-</td>
-<td>
-121.905.473,00
-</td>
-</tr>
-<tr>
-<td>
-VLID3
-</td>
-<td>
--
-</td>
-<td>
--8,11
-</td>
-<td>
-5,90%
-</td>
-<td>
--%
-</td>
-<td>
-2.735.267,87
-</td>
-</tr>
-<tr>
-<td>
-VLOL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VOTS11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VRTA11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VSEC11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VSHO11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VSLH11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VTLT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VULC3
-</td>
-<td>
--
-</td>
-<td>
-11,66
-</td>
-<td>
-18,04%
-</td>
-<td>
--%
-</td>
-<td>
-9.467.010,54
-</td>
-</tr>
-<tr>
-<td>
-VVEO3
-</td>
-<td>
--
-</td>
-<td>
-20,23
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-6.002.923,03
-</td>
-</tr>
-<tr>
-<td>
-VVPR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-VXXV11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-WEGE3
-</td>
-<td>
-1,04
-</td>
-<td>
-47,63
-</td>
-<td>
-20,68%
-</td>
-<td>
-24,47%
-</td>
-<td>
-328.746.432,90
-</td>
-</tr>
-<tr>
-<td>
-WEST3
-</td>
-<td>
--
-</td>
-<td>
--22,83
-</td>
-<td>
--%
-</td>
-<td>
--%
-</td>
-<td>
-5.055.056,59
-</td>
-</tr>
-<tr>
-<td>
-WHRL3
-</td>
-<td>
-6,39
-</td>
-<td>
-10,64
-</td>
-<td>
-13,12%
-</td>
-<td>
-27,60%
-</td>
-<td>
-105.433,95
-</td>
-</tr>
-<tr>
-<td>
-WIZS3
-</td>
-<td>
-5,93
-</td>
-<td>
-6,80
-</td>
-<td>
--%
-</td>
-<td>
-19,97%
-</td>
-<td>
-45.956.538,79
-</td>
-</tr>
-<tr>
-<td>
-WLMM3
-</td>
-<td>
-1,52
-</td>
-<td>
-14,81
-</td>
-<td>
-8,37%
-</td>
-<td>
-87,64%
-</td>
-<td>
-17.673,46
-</td>
-</tr>
-<tr>
-<td>
-WPLZ11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-WRLD11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-WTSP11B
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XBOV
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XINA11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XMAL11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPCI11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPCM11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPHT11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPID11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPIE11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPIN11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPLG11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPML11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XPPR11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-XTED11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-YDRO11
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-YDUQ3
-</td>
-<td>
-2,14
-</td>
-<td>
-39,93
-</td>
-<td>
-26,50%
-</td>
-<td>
--17,38%
-</td>
-<td>
-69.992.507,03
+<td class=liquidez>
+23.254.708,05
 </td>
 </tr>
