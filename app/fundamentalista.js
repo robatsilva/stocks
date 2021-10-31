@@ -68,6 +68,7 @@ const getStocksInTradingView = () => {
     .post('https://scanner.tradingview.com/brazil/scan', body)
     .then(function (response) {
       const stocks = response.data.data
+        .filter((stock) => !stock.d[12].includes('FII'))
         .map((stock) => stock.d[1])
         .filter((stock) => stock.indexOf('F') === -1);
       utils.writeAnalisyHight(

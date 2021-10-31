@@ -1,7 +1,11 @@
 {
   "filter": [
     { "left": "name", "operation": "nempty" },
-    { "left": "is_primary", "operation": "equal", "right": true }
+    {
+      "left": "volume",
+      "operation": "egreater",
+      "right": 1000
+    }
   ],
   "options": { "lang": "en" },
   "markets": ["brazil"],
@@ -23,5 +27,5 @@
   ],
   "sort": { "sortBy": "name", "sortOrder": "asc" },
   "price_conversion": { "to_symbol": false },
-  "range": [0, 2000]
+  "range": [0, 3000]
 }
