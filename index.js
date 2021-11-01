@@ -64,10 +64,8 @@ http.createServer(function (request, response) {
             const $ = cheerio.load(content);
             fs.readFile('./table.txt', (errH, contentH) => {
                 $('#hight').append(errH ? errH : contentH.toString());
-                fs.readFile('./analisyLow.txt', (errL, contentL) => {
-                    $('#low pre').text(errL ? errL : contentL.toString());
-                    response.end($.html(), 'utf-8');
-                })
+                console.log('lido table.txt');
+                response.end($.html(), 'utf-8');
             })
 
             // fs.readFile('./analisyHight.txt', (errH, contentH) => {
