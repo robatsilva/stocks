@@ -62,13 +62,21 @@ http.createServer(function (request, response) {
         else {
             response.writeHead(200, { 'Content-Type': contentType });
             const $ = cheerio.load(content);
-            fs.readFile('./analisyHight.txt', (errH, contentH) => {
+            fs.readFile('./table.txt', (errH, contentH) => {
                 $('#hight').append(errH ? errH : contentH.toString());
                 fs.readFile('./analisyLow.txt', (errL, contentL) => {
                     $('#low pre').text(errL ? errL : contentL.toString());
                     response.end($.html(), 'utf-8');
                 })
             })
+
+            // fs.readFile('./analisyHight.txt', (errH, contentH) => {
+            //     $('#hight').append(errH ? errH : contentH.toString());
+            //     fs.readFile('./analisyLow.txt', (errL, contentL) => {
+            //         $('#low pre').text(errL ? errL : contentL.toString());
+            //         response.end($.html(), 'utf-8');
+            //     })
+            // })
         }
     });
 

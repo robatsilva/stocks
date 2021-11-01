@@ -39,12 +39,12 @@ const buildSockInfo = async (stocks) => {
       ).text();
       const makeTD = (...indicators) => {
         indicators.forEach((indicator) => {
-          utils.writeAnalisyHight("<td class="+ indicator.name + ">", false);
-          utils.writeAnalisyHight(indicator.value);
-          utils.writeAnalisyHight('</td>', false);
+          utils.writeTable("<td class="+ indicator.name + ">", false);
+          utils.writeTable(indicator.value);
+          utils.writeTable('</td>', false);
         });
       };
-      utils.writeAnalisyHight('<tr>');
+      utils.writeTable('<tr>');
       makeTD(
         { value: stock, name: 'stock' },
         { value: dy, name: 'dy' },
@@ -53,7 +53,7 @@ const buildSockInfo = async (stocks) => {
         { value: crescimento, name: 'crescimento' },
         { value: liquidez, name: 'liquidez' }
       );
-      utils.writeAnalisyHight('</tr>');
+      utils.writeTable('</tr>');
     } catch (e) {
       utils.writeFile('Erro - By & hold -> ' + stock + ' ' + e);
       return;
@@ -71,7 +71,7 @@ const getStocksInTradingView = () => {
         .filter((stock) => !stock.d[12].includes('FII'))
         .map((stock) => stock.d[1])
         .filter((stock) => stock.indexOf('F') === -1);
-      utils.writeAnalisyHight(
+      utils.writeTable(
         'Quantidade de papeis para analisar - ' + stocks.length
       );
       // buildSockInfo([stocks[0], stocks[1]]);
@@ -82,7 +82,7 @@ const getStocksInTradingView = () => {
 const init = () => {
   utils.clearFile();
   utils.clearAnalisy();
-  utils.writeAnalisyHight(new Date().toDateString());
+  utils.writeTable(new Date().toDateString());
   utils.writeAnalisyLow(new Date().toDateString());
 
   getStocksInTradingView();

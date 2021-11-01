@@ -11,6 +11,10 @@ const utils = {
         showLog ? console.log(text) : undefined;
         fs.appendFileSync('analisyHight.txt', '\n' + parseIfObject(text));
     },
+    writeTable: (text, showLog = true) => {
+        showLog ? console.log(text) : undefined;
+        fs.appendFileSync('table.txt', '\n' + parseIfObject(text));
+    },
     writeAnalisyLow: (text) => {
         console.log(text);
         fs.appendFileSync('analisyLow.txt', '\n' + parseIfObject(text));
