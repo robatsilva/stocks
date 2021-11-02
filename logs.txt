@@ -213,3 +213,17 @@ stdout: [master aa7ae24] new analisy
  1 file changed, 15 insertions(+)
 
 stderr: 
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: Already up to date.
+
+stderr: 
+stdout: [master f41ad54] new analisy
+ 1 file changed, 11 insertions(+)
+
+stderr: 
+stdout: 
+stderr: To https://github.com/robatsilva/stocks
+   118a5b2..9887762  master -> master
