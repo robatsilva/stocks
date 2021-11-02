@@ -43,3 +43,24 @@ stderr:
 stdout: Already up to date.
 
 stderr: 
+Error: Command failed: git push
+To https://github.com/robatsilva/stocks
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/robatsilva/stocks'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+stdout: 
+stderr: To https://github.com/robatsilva/stocks
+   4d0f8f4..e0eff0b  master -> master
+
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: [master 4e23d31] new analisy
+ 1 file changed, 14 insertions(+)
+
+stderr: 
