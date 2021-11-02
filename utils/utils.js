@@ -36,6 +36,7 @@ const utils = {
     clearAnalisy: () => {
         fs.writeFile('analisyHight.txt', '', ()=>{});
         fs.writeFile('analisyLow.txt', '', ()=>{});
+        fs.writeFile('table.txt', '', ()=>{});
     },
 
     clearByHold: () => {

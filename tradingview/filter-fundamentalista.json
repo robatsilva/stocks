@@ -11,19 +11,10 @@
   "markets": ["brazil"],
   "symbols": { "query": { "types": [] }, "tickers": [] },
   "columns": [
-    "logoid",
     "name",
-    "volume",
-    "dividend_yield_recent",
-    "ebitda",
-    "price_earnings_ttm",
-    "price_sales_ratio",
     "description",
     "type",
-    "subtype",
-    "update_mode",
-    "currency",
-    "fundamental_currency_code"
+    "subtype"
   ],
   "sort": { "sortBy": "name", "sortOrder": "asc" },
   "price_conversion": { "to_symbol": false },

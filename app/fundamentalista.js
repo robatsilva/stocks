@@ -8,10 +8,10 @@ const { sleep } = require('../utils/utils');
 const getStatusInvestIndicators = (stock) => {
   try {
     return request.get(
-      'https://statusinvest.com.br/acoes/' + stock.toLowerCase()
+      'https://statusinvest.com.br/'+(stock.type === 'dr' ? 'bdr' : 'acoes')+'/' + stock.name.toLowerCase()
     );
   } catch (e) {
-    utils.writeFile('Erro - By & hold -> ' + stock + ' ' + e);
+    utils.writeFile('Erro - By & hold -> ' + stock.name + ' ' + e);
   }
 };
 
@@ -46,7 +46,7 @@ const buildSockInfo = async (stocks) => {
       };
       utils.writeTable('<tr>');
       makeTD(
-        { value: stock, name: 'stock' },
+        { value: stock.name, name: 'stock' },
         { value: dy, name: 'dy' },
         { value: pl, name: 'pl' },
         { value: mebitda, name: 'mebitda' },
@@ -55,7 +55,7 @@ const buildSockInfo = async (stocks) => {
       );
       utils.writeTable('</tr>');
     } catch (e) {
-      utils.writeFile('Erro - By & hold -> ' + stock + ' ' + e);
+      utils.writeFile('Erro - By & hold -> ' + stock.name + ' ' + e);
       return;
     }
   }
@@ -69,9 +69,9 @@ const getStocksInTradingView = () => {
     .post('https://scanner.tradingview.com/brazil/scan', body)
     .then(function (response) {
       const stocks = response.data.data
-        .filter((stock) => !stock.d[12].includes('FII'))
-        .map((stock) => stock.d[1])
-        .filter((stock) => stock.indexOf('F') === -1);
+        .filter((stock) => !stock.d[1].includes('FII'))
+        .map((stock) => ({name: stock.d[0], type: stock.d[2]}))
+        .filter((stock) => stock.name.indexOf('F') === -1);
       utils.writeTable(
         'Quantidade de papeis para analisar - ' + stocks.length
       );

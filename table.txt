@@ -1,0 +1,705 @@
+
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 546
+<tr>
+<td class=stock>
+A1GN34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+A1MD34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AALR3
+</td>
+<td class=dy>
+-
+</td>
+<td class=pl>
+59,45
+</td>
+<td class=mebitda>
+21,81%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+16.223.346,80
+</td>
+</tr>
+<tr>
+<td class=stock>
+AAPL34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABCB4
+</td>
+<td class=dy>
+6,57
+</td>
+<td class=pl>
+7,84
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+2,52%
+</td>
+<td class=liquidez>
+13.708.340,20
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABEV3
+</td>
+<td class=dy>
+2,86
+</td>
+<td class=pl>
+17,02
+</td>
+<td class=mebitda>
+35,44%
+</td>
+<td class=crescimento>
+4,99%
+</td>
+<td class=liquidez>
+412.954.403,40
+</td>
+</tr>
+<tr>
+<td class=stock>
+ACWI11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ADBE34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+Mon Nov 01 2021
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 661
+<tr>
+<td class=stock>
+A1GN34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+A1MD34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+A1MT34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AALL34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AALR3
+</td>
+<td class=dy>
+-
+</td>
+<td class=pl>
+59,29
+</td>
+<td class=mebitda>
+21,81%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+16.466.383,70
+</td>
+</tr>
+<tr>
+<td class=stock>
+AAPL34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABCB4
+</td>
+<td class=dy>
+6,64
+</td>
+<td class=pl>
+7,76
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+2,52%
+</td>
+<td class=liquidez>
+14.345.394,90
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABEV3
+</td>
+<td class=dy>
+2,82
+</td>
+<td class=pl>
+17,27
+</td>
+<td class=mebitda>
+35,44%
+</td>
+<td class=crescimento>
+4,99%
+</td>
+<td class=liquidez>
+438.825.432,05
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABUD34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ACWI11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ADBE34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AERI3
+</td>
+<td class=dy>
+-
+</td>
+<td class=pl>
+53,78
+</td>
+<td class=mebitda>
+9,12%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+13.836.147,25
+</td>
+</tr>
+<tr>
+<td class=stock>
+AESB3
+</td>
+<td class=dy>
+2,10
+</td>
+<td class=pl>
+233,78
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+25.164.683,20
+</td>
+</tr>
+<tr>
+<td class=stock>
+AGRO3
+</td>
+<td class=dy>
+10,32
+</td>
+<td class=pl>
+8,18
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+108,88%
+</td>
+<td class=liquidez>
+28.778.814,35
+</td>
+</tr>
+<tr>
+<td class=stock>
+AGXY3
+</td>
+<td class=dy>
+-
+</td>
+<td class=pl>
+-19,65
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+298.809,55
+</td>
+</tr>
+<tr>
+<td class=stock>
+AIEC11
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AIRB34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 661
+<tr>
+<td class=stock>
+A1GN34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+A1MD34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+A1MT34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AALL34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+AALR3
+</td>
+<td class=dy>
+-
+</td>
+<td class=pl>
+59,29
+</td>
+<td class=mebitda>
+21,81%
+</td>
+<td class=crescimento>
+-%
+</td>
+<td class=liquidez>
+16.466.383,70
+</td>
+</tr>
+<tr>
+<td class=stock>
+AAPL34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABCB4
+</td>
+<td class=dy>
+6,64
+</td>
+<td class=pl>
+7,76
+</td>
+<td class=mebitda>
+-%
+</td>
+<td class=crescimento>
+2,52%
+</td>
+<td class=liquidez>
+14.345.394,90
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABEV3
+</td>
+<td class=dy>
+2,82
+</td>
+<td class=pl>
+17,27
+</td>
+<td class=mebitda>
+35,44%
+</td>
+<td class=crescimento>
+4,99%
+</td>
+<td class=liquidez>
+438.825.432,05
+</td>
+</tr>
+<tr>
+<td class=stock>
+ABUD34
+</td>
+<td class=dy>
+
+</td>
+<td class=pl>
+
+</td>
+<td class=mebitda>
+
+</td>
+<td class=crescimento>
+
+</td>
+<td class=liquidez>
+
+</td>
+</tr>
+Mon Nov 01 2021
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 660
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 660
+Mon Nov 01 2021
+Mon Nov 01 2021
+Mon Nov 01 2021
+Mon Nov 01 2021
+Mon Nov 01 2021
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 783
+Mon Nov 01 2021
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 783
+Mon Nov 01 2021
+Quantidade de papeis para analisar - 783
