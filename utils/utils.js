@@ -47,12 +47,16 @@ const utils = {
             return;
         }
         exec('git add .', (err, stdout, stderr) => {
+            err ? console.log(err) : undefined;
             gitExec(err, stdout, stderr);
             exec('git commit -m "new analisy"', (err, stdout, stderr) => {
+                err ? console.log(err) : undefined;
                 gitExec(err, stdout, stderr);
                 exec('git pull', (err, stdout, stderr) => {
+                    err ? console.log(err) : undefined;
                     gitExec(err, stdout, stderr);
                     exec('git push', (err, stdout, stderr) => {
+                        err ? console.log(err) : undefined;
                         gitExec(err, stdout, stderr);
                     });
                 });
