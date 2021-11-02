@@ -64,3 +64,23 @@ stdout: [master 4e23d31] new analisy
  1 file changed, 14 insertions(+)
 
 stderr: 
+stdout: Already up to date.
+
+stderr: 
+stdout: 
+stderr: Everything up-to-date
+
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: [master 600abde] new analisy
+ 1 file changed, 21 insertions(+)
+
+stderr: 
+stdout: 
+stderr: Everything up-to-date
+
+stdout: Already up to date.
+
+stderr: 
