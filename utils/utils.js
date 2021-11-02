@@ -43,7 +43,7 @@ const utils = {
         fs.writeFile('byHold.txt', '', () => {});
     },
 
-    gitPush: () => {
+    gitPush: (callback) => {
         if(process && process.env && process.env.PORT){
             return;
         }
@@ -59,6 +59,7 @@ const utils = {
                     exec('git push', (err, stdout, stderr) => {
                         err ? console.log(err) : undefined;
                         gitExec(err, stdout, stderr);
+                        callback ? callback() : undefined;
                     });
                 });
             });

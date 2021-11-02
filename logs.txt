@@ -1,0 +1,10 @@
+
+stdout: 
+stderr: 
+Error: Command failed: git commit -m "new analisy"
+
+stdout: Already up to date.
+
+stderr: 
+stdout: 
+stderr: Everything up-to-date
