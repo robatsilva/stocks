@@ -95,3 +95,20 @@ stderr:
 stdout: Already up to date.
 
 stderr: 
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: 
+stderr: To https://github.com/robatsilva/stocks
+   66c7e5e..600abde  master -> master
+
+Error: Command failed: git push
+To https://github.com/robatsilva/stocks
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at e23652abf6f8f265774eb5b9e5d5147352c00502 but expected 66c7e5e8d5e40bc41db834882ac5ec2f9f794ee1)
+error: failed to push some refs to 'https://github.com/robatsilva/stocks'
+
+stdout: [master e85248b] new analisy
+ 1 file changed, 11 insertions(+)
+
+stderr: 
