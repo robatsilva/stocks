@@ -84,3 +84,14 @@ stderr: Everything up-to-date
 stdout: Already up to date.
 
 stderr: 
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: [master e23652a] new analisy
+ 1 file changed, 20 insertions(+)
+
+stderr: 
+stdout: Already up to date.
+
+stderr: 
