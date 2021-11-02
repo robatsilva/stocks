@@ -58,8 +58,8 @@ const buildSockInfo = async (stocks) => {
       utils.writeFile('Erro - By & hold -> ' + stock + ' ' + e);
       return;
     }
-    utils.gitPush();
   }
+  utils.gitPush();
 };
 
 //=======================================
