@@ -202,3 +202,14 @@ stdout: [master 9887762] new analisy
  1 file changed, 15 insertions(+), 1 deletion(-)
 
 stderr: 
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: Already up to date.
+
+stderr: 
+stdout: [master aa7ae24] new analisy
+ 1 file changed, 15 insertions(+)
+
+stderr: 
