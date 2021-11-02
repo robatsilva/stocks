@@ -7,3 +7,14 @@ stdout: [master b7df2e8] new analisy
  2 files changed, 5 insertions(+)
 
 stderr: 
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: Already up to date.
+
+stderr: 
+stdout: [master e0eff0b] new analisy
+ 1 file changed, 9 insertions(+)
+
+stderr: 
