@@ -8,3 +8,16 @@ stdout: Already up to date.
 stderr: 
 stdout: 
 stderr: Everything up-to-date
+
+stdout: 
+stderr: 
+stdout: [master 96ab7b7] new analisy
+ 1 file changed, 1 insertion(+)
+
+stderr: 
+stdout: Already up to date.
+
+stderr: 
+stdout: 
+stderr: To https://github.com/robatsilva/stocks
+   b4c8810..96ab7b7  master -> master

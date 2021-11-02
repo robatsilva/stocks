@@ -25,6 +25,7 @@ http
 
     if (request.url.indexOf('push') > -1) {
       utils.gitPush(() => response.end('push done', 'utf-8'));
+      return;
     }
     // var filePath = '.' + request.url;
     // if (filePath == './') {
