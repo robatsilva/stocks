@@ -6,6 +6,7 @@ const fundamentalista = require('./app/fundamentalista');
 const trade = require('./app/swing-day');
 const { time } = require('console');
 var request = require('axios');
+const utils = require('./utils/utils');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
@@ -18,6 +19,10 @@ http.createServer(function (request, response) {
             fundamentalista.init();
         }
         filePath = 'fundamentalista.html';
+    }
+
+    if(request.url.indexOf('push') > -1){
+        utils.gitPush();
     }
     // var filePath = '.' + request.url;
     // if (filePath == './') {
