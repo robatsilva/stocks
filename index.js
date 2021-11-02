@@ -7,6 +7,7 @@ const trade = require('./app/swing-day');
 const { time } = require('console');
 var request = require('axios');
 const utils = require('./utils/utils');
+const { jar } = require('request');
 
 http.createServer(function (request, response) {
     console.log('request ', request.url);
@@ -23,6 +24,7 @@ http.createServer(function (request, response) {
 
     if(request.url.indexOf('push') > -1){
         utils.gitPush();
+        response.end('push done', 'utf-8');
     }
     // var filePath = '.' + request.url;
     // if (filePath == './') {
