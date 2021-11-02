@@ -153,3 +153,23 @@ stderr:
 stdout: 
 stderr: To https://github.com/robatsilva/stocks
    e23652a..589a72b  master -> master
+
+stdout: 
+stderr: warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+
+stdout: 
+stderr: Everything up-to-date
+
+stdout: Already up to date.
+
+stderr: From https://github.com/robatsilva/stocks
+   589a72b..803351e  master     -> origin/master
+
+stdout: [master 118a5b2] new analisy
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+
+stderr: 
+stdout: Already up to date.
+
+stderr: 
