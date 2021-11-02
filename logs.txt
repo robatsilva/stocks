@@ -1,0 +1,9 @@
+
+stdout: 
+stderr: warning: LF will be replaced by CRLF in analisyLow.txt.
+The file will have its original line endings in your working directory
+
+stdout: [master b7df2e8] new analisy
+ 2 files changed, 5 insertions(+)
+
+stderr: 
