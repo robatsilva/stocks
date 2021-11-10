@@ -44,10 +44,10 @@ const utils = {
     },
 
     gitPush: (callback) => {
-        // if(process && process.env && process.env.PORT){
-        //     console.log('não vai executar')
-        //     return;
-        // }
+        if(process && process.env && process.env.PORT){
+            console.log('não vai executar')
+            return;
+        }
         exec('git add .', (err, stdout, stderr) => {
             err ? console.log(err) : undefined;
             gitExec(err, stdout, stderr);

@@ -1,5 +1,6 @@
 const alpha = require('alphavantage')({ key: 'C5897QEPYF5GF2VG' });
 var request = require('axios');
+var https = require('https');
 const body = require('../tradingview/filter-fundamentalista.json');
 const utils = require('../utils/utils');
 const cheerio = require('cheerio');
@@ -12,13 +13,25 @@ const getStatusInvestIndicators = (stock) => {
       (stock.type === 'dr' ? 'bdrs' : (stock.type === 'fund' ? 'etfs' : 'acoes')) +
       '/' +
       stock.name.toLowerCase();
-    return request.get(url);
+    return request.get(url, {
+      httpsAgent: new https.Agent({
+        rejectUnauthorized: false
+      })
+    });
   } catch (e) {
-    utils.writeFile('Erro - By & hold -> ' + stock.name + ' ' + e);
+    utils.writeFile('Erro - fundamentalista -> ' + stock.name + ' ' + e);
   }
 };
 
 const buildSockInfo = async (stocks) => {
+  let i = 0;
+  const makeTD = (...indicators) => {
+    indicators.forEach((indicator) => {
+      utils.writeTable('<td class=' + indicator.name + '>', false);
+      utils.writeTable(indicator.value);
+      utils.writeTable('</td>', false);
+    });
+  };
   for (let stock of stocks) {
     sleep(500);
     try {
@@ -40,26 +53,26 @@ const buildSockInfo = async (stocks) => {
       const liquidez = $(
         '#main-2 > div:nth-child(4) > div > div:nth-child(4) > div > div > div:nth-child(3) > div > div > div > strong'
       ).text();
-      const makeTD = (...indicators) => {
-        indicators.forEach((indicator) => {
-          utils.writeTable('<td class=' + indicator.name + '>', false);
-          utils.writeTable(indicator.value);
-          utils.writeTable('</td>', false);
-        });
-      };
       utils.writeTable('<tr>');
       makeTD(
+        { value: i++, name: '' },
         { value: stock.name, name: 'stock' },
         { value: dy, name: 'dy' },
         { value: pl, name: 'pl' },
         { value: mebitda, name: 'mebitda' },
         { value: crescimento, name: 'crescimento' },
         { value: liquidez, name: 'liquidez' }
-      );
-      utils.writeTable('</tr>');
-    } catch (e) {
-      utils.writeFile('Erro - By & hold -> ' + stock.name + ' ' + e);
-      return;
+        );
+        utils.writeTable('</tr>');
+      } catch (e) {
+        utils.writeFile('Erro - fundamentalista -> ' + stock.name + ' ' + e);
+        utils.writeTable('<tr>');
+        makeTD(
+          { value: i++, name: '' },
+          { value: stock.name, name: '' },
+          { value: 'not found', name: '' },
+        );
+        utils.writeTable('</tr>');
     }
   }
   utils.gitPush();
@@ -68,8 +81,17 @@ const buildSockInfo = async (stocks) => {
 //=======================================
 
 const getStocksInTradingView = () => {
+  
+  // At request level
+  const agent = new https.Agent({  
+    rejectUnauthorized: false
+  });
   request
-    .post('https://scanner.tradingview.com/brazil/scan', body)
+    .post('https://scanner.tradingview.com/brazil/scan', body, {
+      httpsAgent: new https.Agent({
+        rejectUnauthorized: false
+      })
+    })
     .then(function (response) {
       const stocks = response.data.data
         .filter((stock) => !stock.d[1].includes('FII'))
@@ -78,7 +100,10 @@ const getStocksInTradingView = () => {
       utils.writeTable('Quantidade de papeis para analisar - ' + stocks.length);
       // buildSockInfo([stocks[0], stocks[1]]);
       buildSockInfo(stocks);
-    });
+    })
+    .catch((e) => {
+      console.error(e);
+    })
 };
 
 const init = () => {
